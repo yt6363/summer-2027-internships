@@ -2,7 +2,7 @@
 
 Internships and co-ops in **product management, data and AI, design, business and marketing, and software**, posted in the last 3 weeks, read straight from more than 15,000 company career sites (Greenhouse, Lever, Ashby, Workday and the big tech career sites). **Updated every hour.** Most internship lists cover software only; this one covers the rest too.
 
-Last update: October 11, 2026, 10:35 UTC · 255 roles listed
+Last update: October 11, 2026, 10:36 UTC · 255 roles listed
 
 Want these the hour they're posted, for your role and city? [Find your role first](https://findyourrolefirst.click) searches every new role as it appears, free for your first 200 roles, and works inside Claude and Codex. Looking for full-time? See [new grad and entry-level jobs](https://github.com/yt6363/new-grad-jobs).
 
