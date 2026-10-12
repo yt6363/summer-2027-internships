@@ -24,22 +24,45 @@ def cell(text):
     return re.sub(r"([\\`*_{}\[\]()<>#+!~])", r"\\\1", text)
 
 
+def link(url):
+    """Parentheses and spaces in a URL end a Markdown link early; encode them."""
+    return str(url).replace(" ", "%20").replace("(", "%28").replace(")", "%29")
+
+
+def fresh(stamp, now, hours=48):
+    try:
+        return (now - datetime.fromisoformat(stamp.replace("Z", "+00:00"))).total_seconds() < hours * 3600
+    except (AttributeError, ValueError):
+        return False
+
+
 def main():
     request = urllib.request.Request(SOURCE, headers={"User-Agent": "internships-readme (github.com/yt6363/summer-2027-internships)"})
     with urllib.request.urlopen(request, timeout=60) as response:
         data = json.load(response)
     now = datetime.now(timezone.utc)
     tracks = data["tracks"]
-    total = sum(len(tracks[k]["jobs"]) for k in ORDER if k in tracks)
+    jobs = [j for k in ORDER if k in tracks for j in tracks[k]["jobs"]]
+    total, recent = len(jobs), sum(fresh(j.get("posted"), now) for j in jobs)
     lines = [
         "# Summer 2027 internships (US): product, data, design, business and software",
+        "",
+        f"### {total} open roles · {recent} posted in the last 48 hours",
         "",
         "Internships and co-ops in **product management, data and AI, design, business and marketing, and software**, "
         "posted in the last 3 weeks, read straight from more than 15,000 company career sites (Greenhouse, Lever, Ashby, "
         "Workday and the big tech career sites). **Updated every hour.** Most internship lists cover software only; "
         "this one covers the rest too.",
         "",
-        f"Last update: {now.strftime('%B %d, %Y, %H:%M UTC')} · {total} roles listed",
+        f"Last update: {now.strftime('%B %d, %Y, %H:%M UTC')}",
+        "",
+        "> [!TIP]",
+        "> **Star this repo** to keep it handy. It rewrites itself every hour, newest roles on top.",
+        "",
+        "**Apply** opens the company's own application. 🛂 = likely to sponsor H-1B: USCIS approved 5 or more H-1B "
+        "petitions for the employer in fiscal year 2023 ([source](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub)). "
+        "That's a history, not a promise for one role. No mark doesn't mean no: startups and companies that file under "
+        "another name are missing from that data.",
         "",
         "Want these the hour they're posted, for your role and city? [Find your role first](https://findyourrolefirst.click) "
         "searches every new role as it appears, free for your first 200 roles, and works inside Claude and Codex. "
@@ -61,13 +84,14 @@ def main():
             company = cell(job["company"])
             if job.get("company_page"):
                 company = f"[{company}]({job['company_page']})"
-            lines.append(f"| {company} | {cell(job['title'])} | {cell(job['location'])[:60]} | {age(job.get('posted'), now)} | "
-                         f"[Open]({job['url']}) |")
+            title = cell(job["title"]) + (" 🛂" if job.get("h1b_likely") else "")
+            lines.append(f"| {company} | {title} | {cell(job['location'])[:60]} | {age(job.get('posted'), now)} | "
+                         f"[Apply]({link(job['url'])}) |")
         if not track["jobs"]:
             lines.append("| | Nothing new in the last 3 weeks | | | |")
     lines += ["", "---", "",
-              "Roles come from each company's own careers site, newest first. Titles, companies and places only; "
-              "open a role to see the posting and apply on the company's site. Spot a mistake? Open an issue.",
+              "Roles come from each company's own careers site, newest first, and every Apply link goes to that site. "
+              "A company name opens its hiring page: open roles, teams, places and H-1B history. Spot a mistake? Open an issue.",
               "", "More: [who's hiring this week](https://findyourrolefirst.click/blog/hiring) · "
               "[startups that just raised and are hiring](https://findyourrolefirst.click/raises) · "
               "[hiring trends by company](https://findyourrolefirst.click/companies)", ""]
