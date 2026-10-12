@@ -2,17 +2,17 @@
 
 Internships and co-ops in **product management, data and AI, design, business and marketing, and software**, posted in the last 3 weeks, read straight from more than 15,000 company career sites (Greenhouse, Lever, Ashby, Workday and the big tech career sites). **Updated every hour.** Most internship lists cover software only; this one covers the rest too.
 
-Last update: October 12, 2026, 06:37 UTC · 252 roles listed
+Last update: October 12, 2026, 16:11 UTC · 255 roles listed
 
 Want these the hour they're posted, for your role and city? [Find your role first](https://findyourrolefirst.click) searches every new role as it appears, free for your first 200 roles, and works inside Claude and Codex. Looking for full-time? See [new grad and entry-level jobs](https://github.com/yt6363/new-grad-jobs).
 
 ## Jump to
 
 - [Product management](#product-management) (5)
-- [Data, analytics and AI](#data-analytics-and-ai) (74)
+- [Data, analytics and AI](#data-analytics-and-ai) (75)
 - [Design](#design) (15)
 - [Business, marketing and finance](#business-marketing-and-finance) (80)
-- [Software engineering](#software-engineering) (78)
+- [Software engineering](#software-engineering) (80)
 
 ## Product management
 
@@ -21,15 +21,16 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Workday](https://findyourrolefirst.click/companies/workday) | Product Manager Intern | USA, CA, Pleasanton | 2d | [Open](https://findyourrolefirst.click/account?role=workday:workday-workday_early_career:JR-0110813) |
 | [DocuSign](https://findyourrolefirst.click/companies/docusign) | Program Manager Intern | Seattle, Washington | 2d | [Open](https://findyourrolefirst.click/account?role=jibe:docusign:30507) |
 | [Amazon](https://findyourrolefirst.click/companies/amazon) | Program Manager Intern – Summer 2027 | Seattle, Washington, USA | 3d | [Open](https://findyourrolefirst.click/account?role=amazon:amazon:10575248) |
-| Viget | Project & Product Manager Intern \(2027\) | Boulder, CO | 3d | [Open](https://findyourrolefirst.click/account?role=lever:viget:969d8237-ec1a-4ec4-ba09-b08bcfcd81c4) |
+| Viget | Project & Product Manager Intern \(2027\) | Boulder, CO | 4d | [Open](https://findyourrolefirst.click/account?role=lever:viget:969d8237-ec1a-4ec4-ba09-b08bcfcd81c4) |
 | [Avav](https://findyourrolefirst.click/companies/avav) | Program Manager Intern | Simi Valley, CA | 13d | [Open](https://findyourrolefirst.click/account?role=workday:avav-avav:8630) |
 
 ## Data, analytics and AI
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Tencent](https://findyourrolefirst.click/companies/tencent) | Data Science Intern | US-California-Palo Alto | 6h | [Open](https://findyourrolefirst.click/account?role=workday:tencent-tencent_careers:R108213) |
-| [GlobalFoundries](https://findyourrolefirst.click/companies/globalfoundries) | Strategic Pricing & AI Analytics Intern \(Summer 2027\) | USA - Texas - Austin | 30h | [Open](https://findyourrolefirst.click/account?role=workday:globalfoundries-external:JR-2605139) |
+| [Google](https://findyourrolefirst.click/companies/google) | People Analytics Intern, PhD, Summer 2027 | Mountain View, CA, USA \(\+4 more\) | 7h | [Open](https://findyourrolefirst.click/account?role=google:google:81809776362562246) |
+| [Tencent](https://findyourrolefirst.click/companies/tencent) | Data Science Intern | US-California-Palo Alto | 16h | [Open](https://findyourrolefirst.click/account?role=workday:tencent-tencent_careers:R108213) |
+| [GlobalFoundries](https://findyourrolefirst.click/companies/globalfoundries) | Strategic Pricing & AI Analytics Intern \(Summer 2027\) | USA - Texas - Austin | 40h | [Open](https://findyourrolefirst.click/account?role=workday:globalfoundries-external:JR-2605139) |
 | [Workday](https://findyourrolefirst.click/companies/workday) | Machine Learning Engineer Intern | USA, CA, Pleasanton | 2d | [Open](https://findyourrolefirst.click/account?role=workday:workday-workday_early_career:JR-0110812) |
 | [SageSure](https://findyourrolefirst.click/companies/sagesure) | Data Scientist Intern | Cheshire, Connecticut, United States; Jersey City, New Jerse | 2d | [Open](https://findyourrolefirst.click/account?role=gh:sagesure:4719514006) |
 | [SageSure](https://findyourrolefirst.click/companies/sagesure) | Data Science Intern | Jersey City, New Jersey, United States | 2d | [Open](https://findyourrolefirst.click/account?role=gh:sagesure:4719539006) |
@@ -68,8 +69,8 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Primient](https://findyourrolefirst.click/companies/primient) | Digital Data & Analytics Intern - Summer 2027 | Schaumburg, IL | 10d | [Open](https://findyourrolefirst.click/account?role=workday:primient-external_careers:JREQ7011) |
 | [Stand Together](https://findyourrolefirst.click/companies/stand-together) | KIP Spring 2027 - Analytics Intern - Illinois Policy Institute | Chicago, Illinois | 10d | [Open](https://findyourrolefirst.click/account?role=lever:standtogether:2d8f9d0f-9218-4936-8f39-dfb729db830b) |
 | [Red Ventures](https://findyourrolefirst.click/companies/red-ventures) | 2027 Launch Program: Data Science Intern / RVPR | San Juan, PR | 10d | [Open](https://findyourrolefirst.click/account?role=gh:redventures:8247217) |
-| [Stripe](https://findyourrolefirst.click/companies/stripe) | Data Analyst, Intern | New York, Seattle, South San Francisco HQ | 10d | [Open](https://findyourrolefirst.click/account?role=gh:stripe:8194291) |
-| [Stripe](https://findyourrolefirst.click/companies/stripe) | PhD Data Scientist, Intern | New York, Seattle, South San Francisco HQ | 10d | [Open](https://findyourrolefirst.click/account?role=gh:stripe:8194283) |
+| [Stripe](https://findyourrolefirst.click/companies/stripe) | Data Analyst, Intern | New York, Seattle, South San Francisco HQ | 11d | [Open](https://findyourrolefirst.click/account?role=gh:stripe:8194291) |
+| [Stripe](https://findyourrolefirst.click/companies/stripe) | PhD Data Scientist, Intern | New York, Seattle, South San Francisco HQ | 11d | [Open](https://findyourrolefirst.click/account?role=gh:stripe:8194283) |
 | [Frs](https://findyourrolefirst.click/companies/frs) | SCS - Advanced Analytics Intern - 2027 | Cleveland, OH | 11d | [Open](https://findyourrolefirst.click/account?role=workday:rb-frs:R-0000033622) |
 | Nebraskablue | Healthcare Reimbursement Analytics Intern - Summer 2027 | Omaha, NE | 11d | [Open](https://findyourrolefirst.click/account?role=workday:nebraskablue-bcbsne:JR101410) |
 | [Chartermfg](https://findyourrolefirst.click/companies/chartermfg) | Finance Reporting & Analytics Intern \(Year-Round\) | Charter Manufacturing Company, Inc - Mequon, WI | 11d | [Open](https://findyourrolefirst.click/account?role=workday:chartermfg-charter_careers:R08142) |
@@ -86,16 +87,16 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Hy-Vee](https://findyourrolefirst.click/companies/hy-vee) | Data Analytics Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA | 14d | [Open](https://findyourrolefirst.click/account?role=workday:hyvee-hyveecareers:R250146) |
 | [Hewlett Packard Enterprise](https://findyourrolefirst.click/companies/hewlett-packard-enterprise) | GMC Digital Marketing, Analytics & AI Intern | San Jose California United States of America \(\+1 more\) | 14d | [Open](https://findyourrolefirst.click/account?role=workday:hpe-jobsathpe:1213640) |
 | [DoorDash USA](https://findyourrolefirst.click/companies/doordash-usa) | Machine Learning Intern \(PhD\) - Summer 2027 | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seatt | 16d | [Open](https://findyourrolefirst.click/account?role=gh:doordashusa:8233953) |
-| [Red Ventures](https://findyourrolefirst.click/companies/red-ventures) | 2027 Launch Program: Data Science Intern | Charlotte, NC | 16d | [Open](https://findyourrolefirst.click/account?role=gh:redventures:8233284) |
+| [Red Ventures](https://findyourrolefirst.click/companies/red-ventures) | 2027 Launch Program: Data Science Intern | Charlotte, NC | 17d | [Open](https://findyourrolefirst.click/account?role=gh:redventures:8233284) |
 | [Myhrabc](https://findyourrolefirst.click/companies/myhrabc) | Business Analytics Intern | Remote USA \(\+1 more\) | 17d | [Open](https://findyourrolefirst.click/account?role=workday:myhrabc-global:R2616423) |
 | [Copart](https://findyourrolefirst.click/companies/copart) | Data & AI Intern | Dallas, TX - Headquarters | 17d | [Open](https://findyourrolefirst.click/account?role=workday:copart-copart:JR111596) |
-| Wurljobs | Data Science Intern | Remote - United States | 17d | [Open](https://findyourrolefirst.click/account?role=gh:wurljobs:4716249006) |
+| Wurljobs | Data Science Intern | Remote - United States | 18d | [Open](https://findyourrolefirst.click/account?role=gh:wurljobs:4716249006) |
 | [DoorDash USA](https://findyourrolefirst.click/companies/doordash-usa) | Machine Learning Intern \(Masters\) - Summer 2027 | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seatt | 18d | [Open](https://findyourrolefirst.click/account?role=gh:doordashusa:8204111) |
 | [Countryfinancial](https://findyourrolefirst.click/companies/countryfinancial) | Market Analytics Intern | Bloomington, IL | 18d | [Open](https://findyourrolefirst.click/account?role=workday:countryfinancial-countrycorporateinternships:R26_0000000948) |
 | [MSD](https://findyourrolefirst.click/companies/msd) | 2027 Future Talent Program - Data Science - Intern | USA - Pennsylvania - West Point | 18d | [Open](https://findyourrolefirst.click/account?role=workday:msd-searchjobs:R413312) |
 | [Toro](https://findyourrolefirst.click/companies/toro) | Marketing Performance Analytics Intern - The Toro Company | Bloomington, MN | 19d | [Open](https://findyourrolefirst.click/account?role=workday:ttc-toro_external_careers:JR17186) |
-| [G2](https://findyourrolefirst.click/companies/g2) | Marketing AI Intern | Remote \(US\) | 19d | [Open](https://findyourrolefirst.click/account?role=ashby:g2:0f3d8bb1-43a9-47f8-9d80-4418b5c1bc7e) |
-| Haigroup | Data Analytics Intern | Cheshire, CT | 19d | [Open](https://findyourrolefirst.click/account?role=gh:haigroup:4408007009) |
+| [G2](https://findyourrolefirst.click/companies/g2) | Marketing AI Intern | Remote \(US\) | 20d | [Open](https://findyourrolefirst.click/account?role=ashby:g2:0f3d8bb1-43a9-47f8-9d80-4418b5c1bc7e) |
+| Haigroup | Data Analytics Intern | Cheshire, CT | 20d | [Open](https://findyourrolefirst.click/account?role=gh:haigroup:4408007009) |
 | [Coinbase](https://findyourrolefirst.click/companies/coinbase) | Internal Audit Analytics Intern | Hybrid - New York, NY | 20d | [Open](https://findyourrolefirst.click/account?role=gh:coinbase:8221238) |
 | [Danaher](https://findyourrolefirst.click/companies/danaher) | IT Data Analyst Intern | Brea, California, United States | 20d | [Open](https://findyourrolefirst.click/account?role=workday:danaher-danaherjobs:R1316675) |
 | [Computer Aid](https://findyourrolefirst.click/companies/computer-aid) | Data Analyst Intern | PA-CLIENT-STATE | 20d | [Open](https://findyourrolefirst.click/account?role=workday:cai-computer_aid:R8551) |
@@ -117,7 +118,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Thinkingbox](https://findyourrolefirst.click/companies/thinkingbox) | Motion Design Intern - The Heist \(3-Month Contract, Potential for Full-Time\) | Chicago | 9d | [Open](https://findyourrolefirst.click/account?role=lever:thinkingbox:421f75a6-f0cf-4f08-a749-fb195fd36cf7) |
 | [Gemini](https://findyourrolefirst.click/companies/gemini) | Brand Design Intern \(Winter 2027\) | New York, New York | 9d | [Open](https://findyourrolefirst.click/account?role=gh:gemini:8243097) |
 | [Fhlb](https://findyourrolefirst.click/companies/fhlb) | Digital & Graphic Design Intern | Irving, TX | 10d | [Open](https://findyourrolefirst.click/account?role=workday:fhlb-fhlb_careers:REQ-453) |
-| [National Life Insurance Company](https://findyourrolefirst.click/companies/national-life-insurance-company) | Graphic Design Intern – Summer 2027 | Addison, TX; Montpelier, VT | 13d | [Open](https://findyourrolefirst.click/account?role=gh:nationallifeinsurancecompany:4404976009) |
+| [National Life Insurance Company](https://findyourrolefirst.click/companies/national-life-insurance-company) | Graphic Design Intern – Summer 2027 | Addison, TX; Montpelier, VT | 14d | [Open](https://findyourrolefirst.click/account?role=gh:nationallifeinsurancecompany:4404976009) |
 | [Hy-Vee](https://findyourrolefirst.click/companies/hy-vee) | UX Design Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA | 14d | [Open](https://findyourrolefirst.click/account?role=workday:hyvee-hyveecareers:R250150) |
 | [Countryfinancial](https://findyourrolefirst.click/companies/countryfinancial) | Graphic Design Intern | Bloomington, IL | 18d | [Open](https://findyourrolefirst.click/account?role=workday:countryfinancial-countrycorporateinternships:R26_0000001014) |
 | [Swib](https://findyourrolefirst.click/companies/swib) | UI/UX Intern | Madison Wisconsin | 18d | [Open](https://findyourrolefirst.click/account?role=workday:swib-ext:R-001326) |
@@ -127,8 +128,13 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [TraceLink, Inc](https://findyourrolefirst.click/companies/tracelink-inc) | TLU Operations Intern | US - MA - Wilmington | 0h | [Open](https://findyourrolefirst.click/account?role=gh:tracelinkinc:5259572007) |
-| [NOX METALS](https://findyourrolefirst.click/companies/nox-metals) | Marketing Intern | Los Angeles | 9h | [Open](https://findyourrolefirst.click/account?role=ashby:nox-metals:dab1e3fa-927e-4c4c-83e1-c987f7b96b9a) |
+| [SageSure](https://findyourrolefirst.click/companies/sagesure) | Carrier Operations Intern | Jersey City, New Jersey, United States; Mountain View, Calif | 2h | [Open](https://findyourrolefirst.click/account?role=gh:sagesure:4719406006) |
+| [RTX](https://findyourrolefirst.click/companies/rtx) | Finance Intern \(Remote\) | US-DC-REMOTE | 16h | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-private_posting_no_tmp:01881483) |
+| [Alliance](https://findyourrolefirst.click/companies/alliance) | Finance Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America | 16h | [Open](https://findyourrolefirst.click/account?role=workday:alliance-nissanjobs:R00214238) |
+| [Disney](https://findyourrolefirst.click/companies/disney) | WDI Facility Operations Intern, Spring 2027 | Lake Buena Vista, FL, USA | 16h | [Open](https://findyourrolefirst.click/account?role=workday:disney-disneycareer:10162826) |
+| [McKesson](https://findyourrolefirst.click/companies/mckesson) | Inside Sales Intern - Summer 2027 | USA, VA, Richmond | 16h | [Open](https://findyourrolefirst.click/account?role=workday:mckesson-external_careers:JR0155320) |
+| [Path](https://findyourrolefirst.click/companies/path) | Global Health Strategy Intern | United States, Remote, Washington | 16h | [Open](https://findyourrolefirst.click/account?role=workday:path-external:JR2844) |
+| [NOX METALS](https://findyourrolefirst.click/companies/nox-metals) | Marketing Intern | Los Angeles | 19h | [Open](https://findyourrolefirst.click/account?role=ashby:nox-metals:dab1e3fa-927e-4c4c-83e1-c987f7b96b9a) |
 | [AMOREPACIFIC US, INC](https://findyourrolefirst.click/companies/amorepacific-us-inc) | Sulwhasoo Trade Marketing Intern | New York | 2d | [Open](https://findyourrolefirst.click/account?role=gh:amorepacificusinc:4444597009) |
 | [Saputo](https://findyourrolefirst.click/companies/saputo) | Marketing Intern | Milwaukee, WI | 3d | [Open](https://findyourrolefirst.click/account?role=workday:saputo-saputo_external_careers:JR67702) |
 | [McKesson](https://findyourrolefirst.click/companies/mckesson) | CSI Strategy Intern - Summer 2027 | USA, TX, Irving | 3d | [Open](https://findyourrolefirst.click/account?role=workday:mckesson-external_careers:JR0154263) |
@@ -142,7 +148,6 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Waynefarms](https://findyourrolefirst.click/companies/waynefarms) | Plant Operations Intern \(Packaging Efficiency Study\) - Summer 2027 | North Carolina - Dobson Plant | 3d | [Open](https://findyourrolefirst.click/account?role=workday:waynefarms-waynefarms:2026-69260) |
 | [Waynefarms](https://findyourrolefirst.click/companies/waynefarms) | Plant Operations Intern \(Inventory Efficiency Study\) - Summer 2027 | Arkansas - Danville Plant | 3d | [Open](https://findyourrolefirst.click/account?role=workday:waynefarms-waynefarms:2026-69264) |
 | [Waynefarms](https://findyourrolefirst.click/companies/waynefarms) | Plant Operations Intern \(Operations Efficiency Study\) - Summer 2027 | Alabama - Enterprise Plant | 3d | [Open](https://findyourrolefirst.click/account?role=workday:waynefarms-waynefarms:2026-69265) |
-| [National Interstate](https://findyourrolefirst.click/companies/national-interstate) | Business Development Intern- Summer 2027 | Richfield, OH \(USA\) | 3d | [Open](https://findyourrolefirst.click/account?role=workday:gaig-national_interstate_external:R9670) |
 | [Pultegroup](https://findyourrolefirst.click/companies/pultegroup) | Summer 2027 Operations Intern | Alpharetta, GA | 3d | [Open](https://findyourrolefirst.click/account?role=workday:pultegroup-pgi:JR9432) |
 | [Amerisbank](https://findyourrolefirst.click/companies/amerisbank) | US Premium Finance Intern \(Summer/Seasonal\) | GA-Norcross-ParkwayLn | 3d | [Open](https://findyourrolefirst.click/account?role=workday:amerisbank-ameris_bank_careers:JR101102) |
 | [Pbv](https://findyourrolefirst.click/companies/pbv) | Marketing Intern | Raleigh, NC | 3d | [Open](https://findyourrolefirst.click/account?role=workday:pbv-external:R-2026-4621) |
@@ -155,7 +160,6 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Carrier](https://findyourrolefirst.click/companies/carrier) | Inside Sales Intern - Summer \(Automated Logic\) | CAN79: Clifton, 100 Delawanna Avenue, Clifton, NJ, 07014 USA | 4d | [Open](https://findyourrolefirst.click/account?role=workday:carrier-jobs:30219798) |
 | [Ebadcareers](https://findyourrolefirst.click/companies/ebadcareers) | Finance Intern | Simsbury, CT | 4d | [Open](https://findyourrolefirst.click/account?role=workday:ebi-ebadcareers:REQ107740) |
 | [RTX](https://findyourrolefirst.click/companies/rtx) | Finance Intern \(Summer 2027\) | US-CT-EAST HARTFORD-ETC \~ 400 Main St \~ BLDG ETC | 4d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01872505) |
-| [Alliance](https://findyourrolefirst.click/companies/alliance) | Finance Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America | 4d | [Open](https://findyourrolefirst.click/account?role=workday:alliance-nissanjobs:R00214239) |
 | [Aptiv](https://findyourrolefirst.click/companies/aptiv) | Sales Intern | Troy, MI - USA | 4d | [Open](https://findyourrolefirst.click/account?role=workday:aptiv-aptiv_careers:J000702903) |
 | [Aptiv](https://findyourrolefirst.click/companies/aptiv) | Finance Intern | Troy, MI - USA | 4d | [Open](https://findyourrolefirst.click/account?role=workday:aptiv-aptiv_careers:J000704334) |
 | [Arc Boat Company](https://findyourrolefirst.click/companies/arc-boat-company) | People Operations Intern | Torrance, CA | 4d | [Open](https://findyourrolefirst.click/account?role=gh:arcboatcompany:5447151008) |
@@ -164,7 +168,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Clera](https://findyourrolefirst.click/companies/clera) | Growth & Marketing Intern / New Graduate | San Francisco | 4d | [Open](https://findyourrolefirst.click/account?role=ashby:clera:9114044d-f28f-4f93-b4c2-ea54e2f28f8a) |
 | [Strategic HR Client Job Openings](https://findyourrolefirst.click/companies/strategic-hr-client-job-openings) | Marketing Intern | Lexington, Kentucky | 4d | [Open](https://findyourrolefirst.click/account?role=gh:strategichr:8015973003) |
 | [Barnes & Thornburg LLP](https://findyourrolefirst.click/companies/barnes-amp-thornburg-llp) | 2027 BT RISE Internship - Legal Operations Intern | Indianapolis | 4d | [Open](https://findyourrolefirst.click/account?role=ashby:barnes:9ae29c1f-7656-49d9-bb09-7c983019d5a7) |
-| [Moonfare](https://findyourrolefirst.click/companies/moonfare) | US Fund Operations Intern | New York, United States | 4d | [Open](https://findyourrolefirst.click/account?role=gh:moonfare:8015827003) |
+| [Moonfare](https://findyourrolefirst.click/companies/moonfare) | US Fund Operations Intern | New York, United States | 5d | [Open](https://findyourrolefirst.click/account?role=gh:moonfare:8015827003) |
 | [Abb](https://findyourrolefirst.click/companies/abb) | Finance Operations Intern – Summer 2027 | USA, TN, Portland | 5d | [Open](https://findyourrolefirst.click/account?role=workday:abb-external_career_page:JR00048201) |
 | [Johnson & Johnson](https://findyourrolefirst.click/companies/johnson-johnson) | Clinical Affairs & Strategy Intern | Raritan New Jersey United States of America \(\+1 more\) | 5d | [Open](https://findyourrolefirst.click/account?role=workday:jj-jj:R-098803) |
 | [Firstnational](https://findyourrolefirst.click/companies/firstnational) | Content Marketing Intern | Omaha - FN Tower | 5d | [Open](https://findyourrolefirst.click/account?role=workday:firstnational-fnbocareers:R-20261817) |
@@ -179,14 +183,13 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Dowjones](https://findyourrolefirst.click/companies/dowjones) | Summer 2027 Internship Program – Ad Operations Intern | NYC - 1211 Ave of the Americas | 5d | [Open](https://findyourrolefirst.click/account?role=workday:dowjones-dow_jones_career:Job_Req_55889) |
 | [Dowjones](https://findyourrolefirst.click/companies/dowjones) | Summer 2027 Internship Program – Business & Product Strategy Intern | NYC - 1211 Ave of the Americas | 5d | [Open](https://findyourrolefirst.click/account?role=workday:dowjones-dow_jones_career:Job_Req_55897) |
 | [Pgatour](https://findyourrolefirst.click/companies/pgatour) | Event Operations Intern - The Players Championship | PGA TOUR Global Home - Ponte Vedra Beach, FL | 5d | [Open](https://findyourrolefirst.click/account?role=workday:pgatour-pgatourexternal:R015498) |
-| [Valeo](https://findyourrolefirst.click/companies/valeo) | Finance Intern | Troy, MI | 5d | [Open](https://findyourrolefirst.click/account?role=workday:valeo-valeo_jobs:REQ2026081740) |
 | [Hewlett Packard Enterprise](https://findyourrolefirst.click/companies/hewlett-packard-enterprise) | Technology Partnership Operations Intern | Sunnyvale, California, United States of America | 5d | [Open](https://findyourrolefirst.click/account?role=workday:hpe-jobsathpe:1214979) |
 | [Hewlett Packard Enterprise](https://findyourrolefirst.click/companies/hewlett-packard-enterprise) | Technology Alliances Business Development Intern | Sunnyvale, California, United States of America | 5d | [Open](https://findyourrolefirst.click/account?role=workday:hpe-jobsathpe:1214991) |
 | [Disney](https://findyourrolefirst.click/companies/disney) | WTVD ABC11 Community Engagement and Marketing Intern, Spring 2027 | Durham, NC, USA | 5d | [Open](https://findyourrolefirst.click/account?role=workday:disney-disneycareer:10158645) |
 | [Disney](https://findyourrolefirst.click/companies/disney) | WTVD ABC11 News/Broadcast Technical Operations Intern, Spring 2027 | Durham, NC, USA | 5d | [Open](https://findyourrolefirst.click/account?role=workday:disney-disneycareer:10158646) |
 | [Figure](https://findyourrolefirst.click/companies/figure) | Commercial Operations Intern \[Winter 2027\] | San Jose, CA | 5d | [Open](https://findyourrolefirst.click/account?role=gh:figureai:4719591006) |
 | Hipeople Official | GTM/ sales intern | New York City | 5d | [Open](https://findyourrolefirst.click/account?role=ashby:hipeople-official:0e2c94b0-0edd-4739-81a6-bfc1c5f7147b) |
-| [Stand Together](https://findyourrolefirst.click/companies/stand-together) | KIP Spring 2027 - Marketing Intern - Competitive Enterprise Institute | Washington, DC | 5d | [Open](https://findyourrolefirst.click/account?role=lever:standtogether:b57f2be3-1bd6-4656-bbac-bd3c5251d870) |
+| [Stand Together](https://findyourrolefirst.click/companies/stand-together) | KIP Spring 2027 - Marketing Intern - Competitive Enterprise Institute | Washington, DC | 6d | [Open](https://findyourrolefirst.click/account?role=lever:standtogether:b57f2be3-1bd6-4656-bbac-bd3c5251d870) |
 | [Toro](https://findyourrolefirst.click/companies/toro) | Marketing Intern - Exmark | Beatrice, NE | 6d | [Open](https://findyourrolefirst.click/account?role=workday:ttc-toro_external_careers:JR17075) |
 | [Toro](https://findyourrolefirst.click/companies/toro) | Finance Intern, Global Shared Services - The Toro Company | Bloomington, MN | 6d | [Open](https://findyourrolefirst.click/account?role=workday:ttc-toro_external_careers:JR17156) |
 | [McKesson](https://findyourrolefirst.click/companies/mckesson) | CoverMyMeds Product Marketing Intern- Summer 2027 | USA, OH, Columbus | 6d | [Open](https://findyourrolefirst.click/account?role=workday:mckesson-external_careers:JR0154720) |
@@ -205,14 +208,14 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [TensorWave](https://findyourrolefirst.click/companies/tensorwave) | People Operations Intern | Las Vegas, Nevada | 6d | [Open](https://findyourrolefirst.click/account?role=ashby:tensorwave:c74293b6-c566-44c4-9090-b08e83540a40) |
 | [TensorWave](https://findyourrolefirst.click/companies/tensorwave) | GTM Strategy & Operations Intern | Las Vegas, Nevada | 6d | [Open](https://findyourrolefirst.click/account?role=ashby:tensorwave:2cd72118-37ff-4c6e-887c-d65f168c5c59) |
 | [Quickenloans](https://findyourrolefirst.click/companies/quickenloans) | Treasury Operations Intern - Winter 2027 | Detroit, MI | 7d | [Open](https://findyourrolefirst.click/account?role=workday:quickenloans-rocket_careers:R-084527) |
-| [Harvest Midstream](https://findyourrolefirst.click/companies/harvest-midstream) | I-2710 - Corporate Finance Intern | Houston, TX | 7d | [Open](https://findyourrolefirst.click/account?role=workday:hec-harvest_midstream:R006479) |
-| [3M](https://findyourrolefirst.click/companies/3m) | Internship - 2027 Undergraduate Marketing Intern - Global Partnerships \(Maplewood, MN\) | US, Minnesota, Maplewood | 7d | [Open](https://findyourrolefirst.click/account?role=workday:3m-search:R01172109) |
 
 ## Software engineering
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineering Intern \(Summer 2027\) | US-FL-MELBOURNE-312 \~ 795 W Nasa Blvd \~ BLDG 312 | 2d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01876467) |
+| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineering Intern \(Summer 2027\) | US-CA-FULLERTON-675 \~ 1801 Hughes Dr \~ BLDG 675 | 16h | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01879741) |
+| [Slihrms](https://findyourrolefirst.click/companies/slihrms) | Software Developer Intern - Summer 2027 | US.CO.Denver | 16h | [Open](https://findyourrolefirst.click/account?role=workday:slihrms-careers:R-161580) |
+| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineer Intern | US-AZ-TUCSON-805 \~ 1151 E Hermans Rd \~ BLDG 805 | 16h | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-private_posting_no_tmp:01874282) |
 | [DocuSign](https://findyourrolefirst.click/companies/docusign) | Software Engineer Intern | Seattle, Washington | 2d | [Open](https://findyourrolefirst.click/account?role=jibe:docusign:30499) |
 | [SageSure](https://findyourrolefirst.click/companies/sagesure) | Software Engineer Intern | Chicago, Illinois, United States; Jersey City, New Jersey, U | 2d | [Open](https://findyourrolefirst.click/account?role=gh:sagesure:4719536006) |
 | [Arcesium LLC](https://findyourrolefirst.click/companies/arcesium-llc) | Software Engineer Intern | New York | 2d | [Open](https://findyourrolefirst.click/account?role=gh:arcesiumllc:5257176007) |
@@ -222,9 +225,9 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Aptiv](https://findyourrolefirst.click/companies/aptiv) | Embedded Software - Engineering Intern | USA Walnut Creek, CA - WR | 3d | [Open](https://findyourrolefirst.click/account?role=workday:aptiv-aptiv_careers:J000704386) |
 | [DocuSign](https://findyourrolefirst.click/companies/docusign) | Software Engineer Intern - Observability \(Platform\) | Seattle, Washington | 3d | [Open](https://findyourrolefirst.click/account?role=jibe:docusign:30510) |
 | [Replit](https://findyourrolefirst.click/companies/replit) | Software Engineering Intern – Winter 2027 | Foster City, CA | 3d | [Open](https://findyourrolefirst.click/account?role=ashby:replit:7c3c9d29-cec2-4367-8564-eadaed165aea) |
-| [SoloPulse](https://findyourrolefirst.click/companies/solopulse) | Software Engineer Intern/Co-op - Spring 2027 | Peachtree Corners, GA | 3d | [Open](https://findyourrolefirst.click/account?role=lever:solopulseco:1b36afea-e8eb-4cea-a6e9-0afc384d06ef) |
-| Viget | Software Developer Intern \(2027\) | Boulder, CO | 3d | [Open](https://findyourrolefirst.click/account?role=lever:viget:b18cc87d-fca2-485a-a0f2-ad6197db63f2) |
-| [DoorDash USA](https://findyourrolefirst.click/companies/doordash-usa) | Software Engineer, Intern - Labs \(Summer 2027\) | San Francisco, CA; Sunnyvale, CA | 3d | [Open](https://findyourrolefirst.click/account?role=gh:doordashusa:8263774) |
+| [SoloPulse](https://findyourrolefirst.click/companies/solopulse) | Software Engineer Intern/Co-op - Spring 2027 | Peachtree Corners, GA | 4d | [Open](https://findyourrolefirst.click/account?role=lever:solopulseco:1b36afea-e8eb-4cea-a6e9-0afc384d06ef) |
+| Viget | Software Developer Intern \(2027\) | Boulder, CO | 4d | [Open](https://findyourrolefirst.click/account?role=lever:viget:b18cc87d-fca2-485a-a0f2-ad6197db63f2) |
+| [DoorDash USA](https://findyourrolefirst.click/companies/doordash-usa) | Software Engineer, Intern - Labs \(Summer 2027\) | San Francisco, CA; Sunnyvale, CA | 4d | [Open](https://findyourrolefirst.click/account?role=gh:doordashusa:8263774) |
 | [Modmed](https://findyourrolefirst.click/companies/modmed) | Software Engineering Intern | Boca Raton, FL | 4d | [Open](https://findyourrolefirst.click/account?role=workday:modmed-modmed12:R5148) |
 | [Badgermeter](https://findyourrolefirst.click/companies/badgermeter) | Software Engineering Intern | US  - CA - Escondido Facility | 4d | [Open](https://findyourrolefirst.click/account?role=workday:badgermeter-us_careersite:4645) |
 | [Gordon Food Service](https://findyourrolefirst.click/companies/gordon-food-service) | Software Engineer Intern \(Transportation Routing \) | Wyoming, Michigan | 4d | [Open](https://findyourrolefirst.click/account?role=workday:gfs-usjobs-gen-gfs:R-58374) |
@@ -236,8 +239,8 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Figure](https://findyourrolefirst.click/companies/figure) | Security Engineer Intern \[Winter 2027\] | San Jose, CA | 5d | [Open](https://findyourrolefirst.click/account?role=gh:figureai:4719593006) |
 | [Sigma Computing](https://findyourrolefirst.click/companies/sigma-computing) | Software Engineering Intern \(Summer 2027\) | New York, NY | 5d | [Open](https://findyourrolefirst.click/account?role=gh:sigmacomputing:8001295003) |
 | [Everpure](https://findyourrolefirst.click/companies/everpure) | Software Engineer Intern \(Summer 2027\) | Santa Clara, California | 5d | [Open](https://findyourrolefirst.click/account?role=gh:purestorage:8249749) |
-| [Courier Health](https://findyourrolefirst.click/companies/courier-health) | Software Engineering Intern \(Summer 2027\) | New York, New York, United States | 5d | [Open](https://findyourrolefirst.click/account?role=gh:courierhealth:5258913007) |
-| [Niantic Spatial](https://findyourrolefirst.click/companies/niantic-spatial) | Software Engineering Intern \(Summer 2027\) | San Francisco, CA | 5d | [Open](https://findyourrolefirst.click/account?role=ashby:niantic-spatial:898b2da7-03cd-486e-96e3-3430a148c8fd) |
+| [Courier Health](https://findyourrolefirst.click/companies/courier-health) | Software Engineering Intern \(Summer 2027\) | New York, New York, United States | 6d | [Open](https://findyourrolefirst.click/account?role=gh:courierhealth:5258913007) |
+| [Niantic Spatial](https://findyourrolefirst.click/companies/niantic-spatial) | Software Engineering Intern \(Summer 2027\) | San Francisco, CA | 6d | [Open](https://findyourrolefirst.click/account?role=ashby:niantic-spatial:898b2da7-03cd-486e-96e3-3430a148c8fd) |
 | [Avav](https://findyourrolefirst.click/companies/avav) | Hypersonic RF Software Engineering Intern | Germantown, MD | 6d | [Open](https://findyourrolefirst.click/account?role=workday:avav-avav:8993) |
 | [TensorWave](https://findyourrolefirst.click/companies/tensorwave) | Security Engineer Intern | Las Vegas, Nevada | 6d | [Open](https://findyourrolefirst.click/account?role=ashby:tensorwave:8ec8b715-f9ad-48a7-869e-ed9d455119a5) |
 | [TensorWave](https://findyourrolefirst.click/companies/tensorwave) | Software Engineering Intern | Las Vegas, Nevada | 6d | [Open](https://findyourrolefirst.click/account?role=ashby:tensorwave:39091eeb-13fc-46a7-b7e5-0d4584ac53ab) |
@@ -246,23 +249,23 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Arc Boat Company](https://findyourrolefirst.click/companies/arc-boat-company) | Software Engineering Intern | Torrance, CA | 9d | [Open](https://findyourrolefirst.click/account?role=gh:arcboatcompany:5442881008) |
 | [Affirm](https://findyourrolefirst.click/companies/affirm) | Software Engineer Intern \(Summer 2027\) | San Francisco, California, United States | 9d | [Open](https://findyourrolefirst.click/account?role=gh:affirm:8011590003) |
 | [Harvey](https://findyourrolefirst.click/companies/harvey) | Software Engineering Intern \(Summer 2027\) | New York | 9d | [Open](https://findyourrolefirst.click/account?role=ashby:harvey:06d64648-b84b-48ae-94a2-d9c06dfdcb5d) |
-| [DocuSign](https://findyourrolefirst.click/companies/docusign) | Software Engineering Intern – Self-Service Directory Diagnostics | Seattle, Washington | 9d | [Open](https://findyourrolefirst.click/account?role=jibe:docusign:30464) |
-| [ShopBack](https://findyourrolefirst.click/companies/shopback) | Software Engineer Intern | New York City, New York | 9d | [Open](https://findyourrolefirst.click/account?role=lever:shopback-2:e5f5e276-e7f7-43e0-a224-5259d242fe98) |
+| [DocuSign](https://findyourrolefirst.click/companies/docusign) | Software Engineering Intern – Self-Service Directory Diagnostics | Seattle, Washington | 10d | [Open](https://findyourrolefirst.click/account?role=jibe:docusign:30464) |
+| [ShopBack](https://findyourrolefirst.click/companies/shopback) | Software Engineer Intern | New York City, New York | 10d | [Open](https://findyourrolefirst.click/account?role=lever:shopback-2:e5f5e276-e7f7-43e0-a224-5259d242fe98) |
 | [CACI](https://findyourrolefirst.click/companies/caci) | Software Engineer Intern - Summer 2027 | Austin, TX, US | 10d | [Open](https://findyourrolefirst.click/account?role=workday:caci-external:333037) |
 | [Costar](https://findyourrolefirst.click/companies/costar) | Embedded Software Engineering Intern | Sunnyvale \(US\) | 10d | [Open](https://findyourrolefirst.click/account?role=workday:costar-costar_campus:R39950) |
 | [Range](https://findyourrolefirst.click/companies/range) | Software Engineering Intern | McLean, VA | 10d | [Open](https://findyourrolefirst.click/account?role=ashby:range:5fe3697d-b5b3-4772-9de4-1551cb726718) |
 | Gassouth | Software Engineering Intern | Atlanta, Georgia | 10d | [Open](https://findyourrolefirst.click/account?role=gh:gassouth:8247622) |
 | [Mfs](https://findyourrolefirst.click/companies/mfs) | Summer 2027 Software Engineer Intern \(June - August\) | Boston | 10d | [Open](https://findyourrolefirst.click/account?role=workday:mfs-mfs-careers:MFS-231983) |
 | [Pinterest](https://findyourrolefirst.click/companies/pinterest) | Software Engineer Intern 2027 \(USA\) | San Francisco, CA, US; Remote, US | 10d | [Open](https://findyourrolefirst.click/account?role=gh:pinterest:7838577) |
-| [Riot Games](https://findyourrolefirst.click/companies/riot-games) | Software Engineering Intern - Summer 2027 \(Remote\) | Los Angeles, USA | 10d | [Open](https://findyourrolefirst.click/account?role=gh:riotgames:8222014) |
+| [Riot Games](https://findyourrolefirst.click/companies/riot-games) | Software Engineering Intern - Summer 2027 \(Remote\) | Los Angeles, USA | 11d | [Open](https://findyourrolefirst.click/account?role=gh:riotgames:8222014) |
 | [Kla](https://findyourrolefirst.click/companies/kla) | Software Engineering Intern | Milpitas, CA | 11d | [Open](https://findyourrolefirst.click/account?role=workday:kla-ur:2641572) |
 | [Assurant](https://findyourrolefirst.click/companies/assurant) | Summer 2027 Intern: Software Engineering Intern | Atlanta GA \(\+2 more\) | 11d | [Open](https://findyourrolefirst.click/account?role=workday:assurant-external_limited_posting:R-115727) |
 | [RTX](https://findyourrolefirst.click/companies/rtx) | Summer 2027 Embedded Software Engineering Intern \(Onsite\) | US-CT-EAST HARTFORD-ETC \~ 400 Main St \~ BLDG ETC | 11d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01878014) |
 | [Muon Space](https://findyourrolefirst.click/companies/muon-space) | Flight Software Engineering Intern \(Summer 2027\) | San Jose, CA | 11d | [Open](https://findyourrolefirst.click/account?role=gh:muonspace:5247725007) |
 | [Dandy](https://findyourrolefirst.click/companies/dandy) | Summer 2027 Internship - Software Engineering Intern | USA - New York NY | 5d | [Open](https://findyourrolefirst.click/account?role=ashby:dandy:d43558e9-8e51-4980-b00d-39275063f099) |
 | [Muon Space](https://findyourrolefirst.click/companies/muon-space) | GNC Software Engineering Intern \(Summer 2027\) | Mountain View, CA | 12d | [Open](https://findyourrolefirst.click/account?role=gh:muonspace:5252680007) |
-| [Clay Labs](https://findyourrolefirst.click/companies/clay-labs) | Software Engineering Intern | New York | 12d | [Open](https://findyourrolefirst.click/account?role=ashby:claylabs:5b7eced2-36bd-4265-a2a8-da0f786e47aa) |
-| Perchwell | Software Engineering Intern | New York Office | 12d | [Open](https://findyourrolefirst.click/account?role=ashby:perchwell:194eec78-26db-4d8e-850f-a99ea2733e9f) |
+| [Clay Labs](https://findyourrolefirst.click/companies/clay-labs) | Software Engineering Intern | New York | 13d | [Open](https://findyourrolefirst.click/account?role=ashby:claylabs:5b7eced2-36bd-4265-a2a8-da0f786e47aa) |
+| Perchwell | Software Engineering Intern | New York Office | 13d | [Open](https://findyourrolefirst.click/account?role=ashby:perchwell:194eec78-26db-4d8e-850f-a99ea2733e9f) |
 | [Hermeus](https://findyourrolefirst.click/companies/hermeus) | Flight Software Engineering Intern \(Simulation/Hardware-In-The-Loop\) - Spring & Summer 2027 | Los Angeles, CA | 13d | [Open](https://findyourrolefirst.click/account?role=lever:hermeus:78008094-ca81-4a0c-9a18-93b30f932acd) |
 | [Igsenergy](https://findyourrolefirst.click/companies/igsenergy) | Software Engineer Intern | Ohio Remote | 13d | [Open](https://findyourrolefirst.click/account?role=workday:igsenergy-igs:R6263) |
 | [Avav](https://findyourrolefirst.click/companies/avav) | Software Engineering Intern | Sunrise, FL | 13d | [Open](https://findyourrolefirst.click/account?role=workday:avav-avav:8797) |
@@ -286,7 +289,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [CACI](https://findyourrolefirst.click/companies/caci) | Software Engineering Intern - Summer 2027 | Reston, VA, US | 19d | [Open](https://findyourrolefirst.click/account?role=workday:caci-external:332041) |
 | [Astranis](https://findyourrolefirst.click/companies/astranis) | Software Engineer Backend Intern \(Summer 2027\) | San Francisco, CA | 19d | [Open](https://findyourrolefirst.click/account?role=gh:astranis:4705214006) |
 | [Grow Therapy](https://findyourrolefirst.click/companies/grow-therapy) | Software Engineering Intern \(Summer 2027\) | New York City | 19d | [Open](https://findyourrolefirst.click/account?role=ashby:grow-therapy:92bfe88a-4c23-48c8-8f7b-4959ab6cd8d8) |
-| Valstad | Software Engineering Intern, 3D & Manufacturing Applications | Austin | 19d | [Open](https://findyourrolefirst.click/account?role=ashby:valstad:7ff6d452-969f-43a6-9127-d153025e6aea) |
+| Valstad | Software Engineering Intern, 3D & Manufacturing Applications | Austin | 20d | [Open](https://findyourrolefirst.click/account?role=ashby:valstad:7ff6d452-969f-43a6-9127-d153025e6aea) |
 | [RTX](https://findyourrolefirst.click/companies/rtx) | Summer 2027 Software Engineering Intern \(Onsite\) | US-CT-EAST HARTFORD-G \~ 400 Main St \~ BLDG G | 20d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01873645) |
 | [SingleStore](https://findyourrolefirst.click/companies/singlestore) | MIT- Software Engineer Intern / Engine | United States | 20d | [Open](https://findyourrolefirst.click/account?role=gh:singlestore:8220919) |
 | [SingleStore](https://findyourrolefirst.click/companies/singlestore) | MIT- Software Engineer Intern / Helios | United States | 20d | [Open](https://findyourrolefirst.click/account?role=gh:singlestore:8220941) |
