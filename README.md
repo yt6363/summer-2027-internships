@@ -1,10 +1,10 @@
 # Summer 2027 internships (US): product, data, design, business and software
 
-### 268 open roles · 28 posted in the last 48 hours
+### 267 open roles · 31 posted in the last 48 hours
 
 Internships and co-ops in **product management, data and AI, design, business and marketing, and software**, posted in the last 3 weeks, read straight from more than 15,000 company career sites (Greenhouse, Lever, Ashby, Workday and the big tech career sites). **Updated every hour.** Most internship lists cover software only; this one covers the rest too.
 
-Last update: October 29, 2026, 02:55 UTC
+Last update: October 29, 2026, 10:27 UTC
 
 > [!TIP]
 > **Star this repo** to keep it handy. It rewrites itself every hour, newest roles on top.
@@ -17,7 +17,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 - [Product management](#product-management) (7)
 - [Data, analytics and AI](#data-analytics-and-ai) (80)
-- [Design](#design) (21)
+- [Design](#design) (20)
 - [Business, marketing and finance](#business-marketing-and-finance) (80)
 - [Software engineering](#software-engineering) (80)
 
@@ -25,7 +25,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Meta](https://findyourrolefirst.click/companies/meta) | Technical Program Manager Intern, Global Supply Management — Reality Labs \(2027\) 🛂 | Sunnyvale, CA | 9h | [Apply](https://www.metacareers.com/profile/job_details/3333103890230916/) |
+| [Meta](https://findyourrolefirst.click/companies/meta) | Technical Program Manager Intern, Global Supply Management — Reality Labs \(2027\) 🛂 | Sunnyvale, CA | 16h | [Apply](https://www.metacareers.com/profile/job_details/3333103890230916/) |
 | [Meta](https://findyourrolefirst.click/companies/meta) | Technical Program Manager Intern, Reality Labs — 2027 🛂 | Menlo Park, CA | 2d | [Apply](https://www.metacareers.com/profile/job_details/1649069223327170/) |
 | [Anduril Industries](https://findyourrolefirst.click/companies/anduril-industries) | 2027 Technical Program Manager Intern | Costa Mesa, California, United States; Honolulu, Hawaii, Uni | 9d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) |
 | [Workday](https://findyourrolefirst.click/companies/workday) | Product Manager Intern 🛂 | USA, CA, Pleasanton | 19d | [Apply](https://workday.wd5.myworkdayjobs.com/workday_early_career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813) |
@@ -37,17 +37,17 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Schonfeld](https://findyourrolefirst.click/companies/schonfeld) | 2027 Enterprise AI Intern | New York, New York, United States | 7h | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171694) |
-| [Applied Materials](https://findyourrolefirst.click/companies/applied-materials) | Summer 2027 Data Scientist Intern -Bachelor's \(Austin, TX\) 🛂 | Austin,TX | 26h | [Apply](https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409) |
-| [Applied Materials](https://findyourrolefirst.click/companies/applied-materials) | Summer 2027 Data Science Intern- Bachelor's/Master's \(Santa Clara, CA\) 🛂 | Santa Clara,CA | 26h | [Apply](https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525) |
-| [Applied Materials](https://findyourrolefirst.click/companies/applied-materials) | Summer 2027 Data Scientist Intern - Master's \(Santa Clara, CA\) 🛂 | Santa Clara,CA | 26h | [Apply](https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691) |
-| [Valmont](https://findyourrolefirst.click/companies/valmont) | AI & Data Engineering Intern | Omaha NE | 26h | [Apply](https://valmont.wd1.myworkdayjobs.com/valmontcareers/job/Omaha-NE/AI---Data-Engineering-Intern_R29310) |
-| [Usaajobswd](https://findyourrolefirst.click/companies/usaajobswd) | Data Scientist Intern | Plano Legacy | 26h | [Apply](https://usaa.wd1.myworkdayjobs.com/usaajobswd/job/Plano-Legacy/Data-Scientist-Intern_R0121200) |
-| [Fhlbi](https://findyourrolefirst.click/companies/fhlbi) | MPP Data Analytics Intern | Indianapolis | 26h | [Apply](https://fhlbi.wd1.myworkdayjobs.com/fhlbi_careers/job/Indianapolis/MPP-Data-Analytics-Intern_R641) |
-| [Revantage](https://findyourrolefirst.click/companies/revantage) | Insurance Technology & AI Analytics Intern, Summer 2027 | Chicago IL \(\+1 more\) | 26h | [Apply](https://revantage.wd1.myworkdayjobs.com/revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539) |
-| [Marvell](https://findyourrolefirst.click/companies/marvell) | Data Science Intern, BS - Summer 2027 | Boise, ID | 26h | [Apply](https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Boise-ID/Data-Science-Intern--BS---Summer-2027_2603782) |
-| [Booz Allen Hamilton](https://findyourrolefirst.click/companies/booz-allen-hamilton) | University - 2027 Summer Games Data Scientist Intern - Lexington, MA 🛂 | Lexington, MA | 26h | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275) |
-| [CareDx, Inc.](https://findyourrolefirst.click/companies/caredx-inc) | Data & AI Intern | Brisbane, CA | 36h | [Apply](https://job-boards.greenhouse.io/caredxinc/jobs/4468398009) |
+| [Schonfeld](https://findyourrolefirst.click/companies/schonfeld) | 2027 Enterprise AI Intern | New York, New York, United States | 15h | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171694) |
+| [Applied Materials](https://findyourrolefirst.click/companies/applied-materials) | Summer 2027 Data Scientist Intern -Bachelor's \(Austin, TX\) 🛂 | Austin,TX | 34h | [Apply](https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409) |
+| [Applied Materials](https://findyourrolefirst.click/companies/applied-materials) | Summer 2027 Data Science Intern- Bachelor's/Master's \(Santa Clara, CA\) 🛂 | Santa Clara,CA | 34h | [Apply](https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525) |
+| [Applied Materials](https://findyourrolefirst.click/companies/applied-materials) | Summer 2027 Data Scientist Intern - Master's \(Santa Clara, CA\) 🛂 | Santa Clara,CA | 34h | [Apply](https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691) |
+| [Valmont](https://findyourrolefirst.click/companies/valmont) | AI & Data Engineering Intern | Omaha NE | 34h | [Apply](https://valmont.wd1.myworkdayjobs.com/valmontcareers/job/Omaha-NE/AI---Data-Engineering-Intern_R29310) |
+| [Usaajobswd](https://findyourrolefirst.click/companies/usaajobswd) | Data Scientist Intern | Plano Legacy | 34h | [Apply](https://usaa.wd1.myworkdayjobs.com/usaajobswd/job/Plano-Legacy/Data-Scientist-Intern_R0121200) |
+| [Fhlbi](https://findyourrolefirst.click/companies/fhlbi) | MPP Data Analytics Intern | Indianapolis | 34h | [Apply](https://fhlbi.wd1.myworkdayjobs.com/fhlbi_careers/job/Indianapolis/MPP-Data-Analytics-Intern_R641) |
+| [Revantage](https://findyourrolefirst.click/companies/revantage) | Insurance Technology & AI Analytics Intern, Summer 2027 | Chicago IL \(\+1 more\) | 34h | [Apply](https://revantage.wd1.myworkdayjobs.com/revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539) |
+| [Marvell](https://findyourrolefirst.click/companies/marvell) | Data Science Intern, BS - Summer 2027 | Boise, ID | 34h | [Apply](https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Boise-ID/Data-Science-Intern--BS---Summer-2027_2603782) |
+| [Booz Allen Hamilton](https://findyourrolefirst.click/companies/booz-allen-hamilton) | University - 2027 Summer Games Data Scientist Intern - Lexington, MA 🛂 | Lexington, MA | 34h | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275) |
+| [CareDx, Inc.](https://findyourrolefirst.click/companies/caredx-inc) | Data & AI Intern | Brisbane, CA | 44h | [Apply](https://job-boards.greenhouse.io/caredxinc/jobs/4468398009) |
 | Aaaie | Data Science Intern | Arizona - Home Teleworkers | 2d | [Apply](https://aaaie.wd1.myworkdayjobs.com/csaacareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002) |
 | [Disney](https://findyourrolefirst.click/companies/disney) | Content Research Insights & Analytics Intern, Spring 2027 | Burbank, CA, USA | 2d | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-1) |
 | [Davidyurman](https://findyourrolefirst.click/companies/davidyurman) | Strategic Analytics Intern | New York, NY | 2d | [Apply](https://davidyurman.wd1.myworkdayjobs.com/davidyurmancareers/job/New-York-NY/Strategic-Analytics-Intern_R-101176) |
@@ -107,7 +107,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [FieldAI](https://findyourrolefirst.click/companies/fieldai) | Robotics Research, Embodied AI Intern \(Spring & Summer 2027\) | Irvine, CA | 15d | [Apply](https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply) |
 | [Hcsc](https://findyourrolefirst.click/companies/hcsc) | Early Careers - Operations Performance Analytics Intern | IL - Chicago | 16d | [Apply](https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/IL---Chicago/Early-Careers---Operations-Performance-Analytics-Intern_R0059516) |
 | MEMX | Data Engineering Intern, Summer 2027 \(Hybrid, NYC\) | United States | 16d | [Apply](https://job-boards.greenhouse.io/memx/jobs/5450442008) |
-| [Google](https://findyourrolefirst.click/companies/google) | People Analytics Intern, PhD, Summer 2027 🛂 | Mountain View, CA, USA \(\+4 more\) | 16d | [Apply](https://www.google.com/about/careers/applications/jobs/results/81809776362562246) |
+| [Google](https://findyourrolefirst.click/companies/google) | People Analytics Intern, PhD, Summer 2027 🛂 | Mountain View, CA, USA \(\+4 more\) | 17d | [Apply](https://www.google.com/about/careers/applications/jobs/results/81809776362562246) |
 | [Amfam](https://findyourrolefirst.click/companies/amfam) | Summer 2027 Data Analyst Intern - Agency Performance, Insights and Operations | WI Madison | 17d | [Apply](https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513) |
 | [Alliance](https://findyourrolefirst.click/companies/alliance) | Data Science Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America | 17d | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331) |
 | [Alliance](https://findyourrolefirst.click/companies/alliance) | AI & Data Analytics Intern - Summer 2027 - Irving, TX or Franklin, TN | Franklin Tennessee   United States of America \(\+1 more\) | 17d | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223) |
@@ -122,7 +122,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Archgroup](https://findyourrolefirst.click/companies/archgroup) | Digital Product Management UI/UX Intern | Greensboro, NC United States of America | 26h | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Digital-Product-Management-Intern_R26_1139) |
+| [Archgroup](https://findyourrolefirst.click/companies/archgroup) | Digital Product Management UI/UX Intern | Greensboro, NC United States of America | 34h | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Digital-Product-Management-Intern_R26_1139) |
 | Aaaie | UX Design Intern | Arizona - Home Teleworkers | 2d | [Apply](https://aaaie.wd1.myworkdayjobs.com/csaacareers2/job/Arizona---Home-Teleworkers/UX-Design-Intern_R8001-1) |
 | [Sonos](https://findyourrolefirst.click/companies/sonos) | Brand Design Intern \(New York\) 🛂 | New York, NY | 2d | [Apply](https://sonos.wd1.myworkdayjobs.com/sonos/job/New-York-NY/Brand-Design-Intern--New-York-_R2877-1) |
 | [Stanley Black & Decker](https://findyourrolefirst.click/companies/stanley-black-decker) | UX/UI Design Intern - Summer 2027 🛂 | Valley City, OH, United States | 5d | [Apply](https://sbdinc.wd1.myworkdayjobs.com/stanley_black_decker_career_site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835) |
@@ -142,16 +142,17 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [3M](https://findyourrolefirst.click/companies/3m) | Internship - 2027 Undergraduate 3M Brand Design Intern - Safety & Industrial Business Group \(SIBG\) | US Minnesota Maplewood \(\+1 more\) | 17d | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Brand-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172458) |
 | [3M](https://findyourrolefirst.click/companies/3m) | Internship - 2027 Undergraduate 3M UX/UI Design Intern - Safety & Industrial Business Group \(SIBG\) | US Minnesota Maplewood \(\+1 more\) | 17d | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-UX-UI-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172459) |
 | [Databricks](https://findyourrolefirst.click/companies/databricks) | Product Design Intern \(2027 Start\) 🛂 | San Francisco, California; Seattle, Washington | 19d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) |
-| [Gemini](https://findyourrolefirst.click/companies/gemini) | Product Design Intern \(Winter 2027\) | New York, New York | 20d | [Apply](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8240208&gh_jid=8240208) |
 
 ## Business, marketing and finance
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Applied Materials](https://findyourrolefirst.click/companies/applied-materials) | Summer 2027 Revenue Operations Intern- Bachelor's \(Chandler, AZ\) 🛂 | Chandler,AZ | 26h | [Apply](https://amat.wd1.myworkdayjobs.com/external/job/ChandlerAZ/Summer-2027-Revenue-Operations-Intern--Bachelor-s--Chandler--AZ-_R2627539) |
-| [Allstate](https://findyourrolefirst.click/companies/allstate) | Product Marketing Intern | USA - IL \(Remote\) | 26h | [Apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Product-Marketing-Intern_R36487) |
-| [Wvumedicine](https://findyourrolefirst.click/companies/wvumedicine) | Finance Intern | Southwestern PA | 26h | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/wvuh/job/Southwestern-PA/Finance-Intern_JR26-48702) |
-| [PatientPoint](https://findyourrolefirst.click/companies/patientpoint) | Client Sales Intern | New York City, NY | 36h | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4747070005) |
+| [ShopBack](https://findyourrolefirst.click/companies/shopback) | Sports Partnerships Marketing Intern | Texas, United States | 0h | [Apply](https://jobs.lever.co/shopback-2/0a293a00-7c38-4237-8025-7b2a1d9043a3/apply) |
+| [Alice & Bob](https://findyourrolefirst.click/companies/alice-amp-bob) | Business Development Intern M/F | Boston | 2h | [Apply](https://jobs.lever.co/alice-bob/7858ac54-9160-4977-a3e2-f51b6a9a581d/apply) |
+| [Applied Materials](https://findyourrolefirst.click/companies/applied-materials) | Summer 2027 Revenue Operations Intern- Bachelor's \(Chandler, AZ\) 🛂 | Chandler,AZ | 34h | [Apply](https://amat.wd1.myworkdayjobs.com/external/job/ChandlerAZ/Summer-2027-Revenue-Operations-Intern--Bachelor-s--Chandler--AZ-_R2627539) |
+| [Allstate](https://findyourrolefirst.click/companies/allstate) | Product Marketing Intern | USA - IL \(Remote\) | 34h | [Apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Product-Marketing-Intern_R36487) |
+| [Wvumedicine](https://findyourrolefirst.click/companies/wvumedicine) | Finance Intern | Southwestern PA | 34h | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/wvuh/job/Southwestern-PA/Finance-Intern_JR26-48702) |
+| [PatientPoint](https://findyourrolefirst.click/companies/patientpoint) | Client Sales Intern | New York City, NY | 43h | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4747070005) |
 | [Applied Materials](https://findyourrolefirst.click/companies/applied-materials) | 2027 Summer Product Marketing Intern - BS or MS \(Gloucester, MA\) 🛂 | Gloucester,MA | 2d | [Apply](https://amat.wd1.myworkdayjobs.com/external/job/GloucesterMA/XMLNAME-2027-Summer-Product-Marketing-Intern---BS-or-MS--Gloucester--MA-_R2630824) |
 | [Inspirebrands](https://findyourrolefirst.click/companies/inspirebrands) | Corporate Finance Intern - Summer 2027 | Atlanta Support Center | 2d | [Apply](https://inspirebrands.wd5.myworkdayjobs.com/inspirecareers/job/Atlanta-Support-Center/Corporate-Finance-Intern---Summer-2027_JR42027) |
 | [Gaig](https://findyourrolefirst.click/companies/gaig) | IT Finance Intern - Summer 2027 | Cincinnati, OH \(USA\) | 2d | [Apply](https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/IT-Finance-Intern---Summer-2027_R9808) |
@@ -182,7 +183,6 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Cox](https://findyourrolefirst.click/companies/cox) | Quality Operations Intern \(Electric Vehicle Battery Solutions\) | Oklahoma City OK \(\+1 more\) | 6d | [Apply](https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Oklahoma-City-OK/Quality-Department-Intern--Electric-Vehicle-Battery-Solutions-_R202683550) |
 | [Nasdaq](https://findyourrolefirst.click/companies/nasdaq) | Business Development Intern - 2027 Summer Internship | USA - Boston - Massachusetts | 6d | [Apply](https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/USA---Boston---Massachusetts/Business-Development-Intern---2027-Summer-Internship_R0027154) |
 | [Disney](https://findyourrolefirst.click/companies/disney) | Creative Strategy & Partnership Marketing Intern, Glendale, Spring 2027 | Glendale, CA, USA | 6d | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Creative-Strategy---Partnership-Marketing-Intern--Glendale--Spring-2027_10162405) |
-| [Disney](https://findyourrolefirst.click/companies/disney) | Social Media Marketing Strategy Intern, Spring 2027 | Glendale, CA, USA | 6d | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Social-Media-Marketing-Strategy-Intern--Spring-2027_10160419) |
 | Grassroots Analytics | Marketing Intern / Spring 2027 | Washington, District of Columbia, United States | 6d | [Apply](https://job-boards.greenhouse.io/grassrootsanalytics/jobs/4724145006) |
 | College Recruiting | Marketing Intern \(Summer 2027\) | Oklahoma City, OK | 6d | [Apply](https://clr.wd5.myworkdayjobs.com/college_recruiting/job/Oklahoma-City-OK/Marketing-Intern--Summer-2027-_R02718) |
 | [Clera](https://findyourrolefirst.click/companies/clera) | Growth & Marketing Intern / New Grad | San Francisco | 6d | [Apply](https://jobs.ashbyhq.com/clera/4b5a8cd0-ef9f-4ce9-995e-dbfd944e24e6/application) |
@@ -227,22 +227,22 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Ursa Major](https://findyourrolefirst.click/companies/ursa-major) | 2027 Summer People Operations Intern | Berthoud, Colorado | 9d | [Apply](https://ursamajor.com/careers/?gh_jid=4745117005) |
 | [Prologis](https://findyourrolefirst.click/companies/prologis) | Global Marketing Intern | Denver, Colorado | 10d | [Apply](https://prologis.wd5.myworkdayjobs.com/prologis_external_careers/job/Denver-Colorado/Global-Marketing-Intern_R6861) |
 | [Urcareers](https://findyourrolefirst.click/companies/urcareers) | Sales Intern \(Paid\) | Indianapolis, IN, USA | 10d | [Apply](https://ur.wd1.myworkdayjobs.com/urcareers/job/Indianapolis-IN-USA/Sales-Intern--Paid-_102883) |
-| [Prologis](https://findyourrolefirst.click/companies/prologis) | Energy Sales Intern | San Francisco California \(\+3 more\) | 10d | [Apply](https://prologis.wd5.myworkdayjobs.com/prologis_external_careers/job/San-Francisco-California/Energy-Sales-Intern_R6860) |
 
 ## Software engineering
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [HP](https://findyourrolefirst.click/companies/hp) | Software Engineering Intern - HP IQ | San Francisco, California, United States of America | 2h | [Apply](https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806) |
-| [HP](https://findyourrolefirst.click/companies/hp) | Software Engineering Intern, Connectivity - HP IQ | San Francisco, California, United States of America | 2h | [Apply](https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812) |
-| [The Nuclear Company](https://findyourrolefirst.click/companies/the-nuclear-company) | Spring 2027 Security Engineer Intern | Washington, D.C. | 8h | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5466153008) |
-| [Sonos](https://findyourrolefirst.click/companies/sonos) | Software Engineering Intern \(Seattle\) 🛂 | Seattle, WA | 26h | [Apply](https://sonos.wd1.myworkdayjobs.com/sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2885) |
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineering Intern \(Summer 2027\) | US-VA-STERLING-291 \~ 22640 Davis Dr \~ DAVIS | 26h | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169) |
-| [Sonos](https://findyourrolefirst.click/companies/sonos) | Software Engineering Intern \(Boston\) 🛂 | Boston, MA | 26h | [Apply](https://sonos.wd1.myworkdayjobs.com/sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1) |
-| [Booz Allen Hamilton](https://findyourrolefirst.click/companies/booz-allen-hamilton) | University - 2027 Summer Games Software Developer Intern - Albuquerque, NM 🛂 | Albuquerque, NM | 26h | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games-Software-Developer-Intern---Albuquerque--NM_R0252335) |
-| [Booz Allen Hamilton](https://findyourrolefirst.click/companies/booz-allen-hamilton) | University - 2027 Summer Games Software Developer Intern - Royal Oaks, MI 🛂 | Detroit, MI | 26h | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Software-Developer-Intern---Royal-Oaks--MI_R0252340) |
-| [Booz Allen Hamilton](https://findyourrolefirst.click/companies/booz-allen-hamilton) | University - 2027 Summer Games Software Developer Intern - Dayton, OH 🛂 | Dayton, OH | 26h | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345) |
-| [Booz Allen Hamilton](https://findyourrolefirst.click/companies/booz-allen-hamilton) | University - 2027 Summer Games Software Developer Intern - Lexington, MA 🛂 | Lexington, MA | 26h | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274) |
+| [Kla](https://findyourrolefirst.click/companies/kla) | Software Engineer Intern 🛂 | Milpitas, CA | 10h | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1) |
+| [HP](https://findyourrolefirst.click/companies/hp) | Software Engineering Intern - HP IQ | San Francisco, California, United States of America | 10h | [Apply](https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806) |
+| [HP](https://findyourrolefirst.click/companies/hp) | Software Engineering Intern, Connectivity - HP IQ | San Francisco, California, United States of America | 10h | [Apply](https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812) |
+| [The Nuclear Company](https://findyourrolefirst.click/companies/the-nuclear-company) | Spring 2027 Security Engineer Intern | Washington, D.C. | 16h | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5466153008) |
+| [Sonos](https://findyourrolefirst.click/companies/sonos) | Software Engineering Intern \(Seattle\) 🛂 | Seattle, WA | 34h | [Apply](https://sonos.wd1.myworkdayjobs.com/sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2885) |
+| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineering Intern \(Summer 2027\) | US-VA-STERLING-291 \~ 22640 Davis Dr \~ DAVIS | 34h | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169) |
+| [Sonos](https://findyourrolefirst.click/companies/sonos) | Software Engineering Intern \(Boston\) 🛂 | Boston, MA | 34h | [Apply](https://sonos.wd1.myworkdayjobs.com/sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1) |
+| [Booz Allen Hamilton](https://findyourrolefirst.click/companies/booz-allen-hamilton) | University - 2027 Summer Games Software Developer Intern - Albuquerque, NM 🛂 | Albuquerque, NM | 34h | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games-Software-Developer-Intern---Albuquerque--NM_R0252335) |
+| [Booz Allen Hamilton](https://findyourrolefirst.click/companies/booz-allen-hamilton) | University - 2027 Summer Games Software Developer Intern - Royal Oaks, MI 🛂 | Detroit, MI | 34h | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Software-Developer-Intern---Royal-Oaks--MI_R0252340) |
+| [Booz Allen Hamilton](https://findyourrolefirst.click/companies/booz-allen-hamilton) | University - 2027 Summer Games Software Developer Intern - Dayton, OH 🛂 | Dayton, OH | 34h | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345) |
+| [Booz Allen Hamilton](https://findyourrolefirst.click/companies/booz-allen-hamilton) | University - 2027 Summer Games Software Developer Intern - Lexington, MA 🛂 | Lexington, MA | 34h | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274) |
 | [RTX](https://findyourrolefirst.click/companies/rtx) | Receiver, Exciter, & Processing Architecture Software Engineer Intern \(Summer 2027\) - Onsite | US-MA-MARLBOROUGH-MA2 \~ 1001 Boston Post Rd \~ BLDG 2 | 2d | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187) |
 | [Northrop Grumman](https://findyourrolefirst.click/companies/northrop-grumman) | 2027 Software Engineer Intern - Azusa CA | United States-California-Azusa | 2d | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903) |
 | [Northrop Grumman](https://findyourrolefirst.click/companies/northrop-grumman) | 2027 Software Engineering Intern - Boulder CO | United States-Colorado-Boulder | 2d | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798) |
@@ -296,11 +296,11 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Patreon](https://findyourrolefirst.click/companies/patreon) | Software Engineering Intern - Summer 2027 🛂 | New York | 9d | [Apply](https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application) |
 | [Amplify](https://findyourrolefirst.click/companies/amplify) | Summer 2027: Software Engineering Intern | Remote - United States | 9d | [Apply](https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application) |
 | [Cognex](https://findyourrolefirst.click/companies/cognex) | Software Engineering Intern 🛂 | Wauwatosa, Wisconsin | 10d | [Apply](https://cognex.wd1.myworkdayjobs.com/external_career_site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549) |
-| [Together AI](https://findyourrolefirst.click/companies/together-ai) | Hardware Security Engineer Intern \(Summer 2027\) | San Francisco | 12d | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238469007) |
+| [Together AI](https://findyourrolefirst.click/companies/together-ai) | Hardware Security Engineer Intern \(Summer 2027\) | San Francisco | 13d | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238469007) |
 | [AiDASH, Inc.](https://findyourrolefirst.click/companies/aidash-inc) | Software Engineering Intern, Backend | Palo Alto, California, United States | 13d | [Apply](https://job-boards.greenhouse.io/aidashinc/jobs/4436057009) |
 | [Axiomspace](https://findyourrolefirst.click/companies/axiomspace) | Software Engineering Intern \(Summer 2027\) | Houston | 13d | [Apply](https://axiomspace.wd5.myworkdayjobs.com/external_career_site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767) |
 | [Muon Space](https://findyourrolefirst.click/companies/muon-space) | Ground Software Engineering Intern \(Summer 2027\) | San Jose, CA | 13d | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5266679007) |
-| [Tessera Labs](https://findyourrolefirst.click/companies/tessera-labs) | Software Engineering Intern, Full Stack | San Jose Office \(HQ\) | 31h | [Apply](https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application) |
+| [Tessera Labs](https://findyourrolefirst.click/companies/tessera-labs) | Software Engineering Intern, Full Stack | San Jose Office \(HQ\) | 38h | [Apply](https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application) |
 | [Figure](https://findyourrolefirst.click/companies/figure) | Embedded Software Engineering Intern \[Winter 2027\] | San Jose, CA | 14d | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4722086006) |
 | [Skydio](https://findyourrolefirst.click/companies/skydio) | Manufacturing Software Engineer Intern - Winter 2027 🛂 | San Mateo, California, United States | 14d | [Apply](https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application) |
 | [ATOMS Careers page](https://findyourrolefirst.click/companies/atoms-careers-page) | Software Engineering Intern - 2027 Winter Term | Los Angeles, CA | 14d | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8888411002) |
@@ -312,7 +312,6 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Skydio](https://findyourrolefirst.click/companies/skydio) | Software Engineer Intern - Summer 2027 🛂 | San Mateo, California, United States | 15d | [Apply](https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application) |
 | [Netflix](https://findyourrolefirst.click/companies/netflix) | Software Engineer Intern - Summer 2027 🛂 | Los Gatos,California,United States of America | 16d | [Apply](https://explore.jobs.netflix.net/careers/job/790318904468) |
 | [Computer Aid](https://findyourrolefirst.click/companies/computer-aid) | GIS Software Developer Intern 🛂 | PA-CLIENT-STATE | 17d | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554) |
-| [Cboe](https://findyourrolefirst.click/companies/cboe) | Software Engineer Intern \(C\+\+\) | Kansas City, MO | 17d | [Apply](https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726) |
 
 ---
 
