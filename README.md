@@ -1,10 +1,10 @@
 # Summer 2027 internships (US): product, data, design, business and software
 
-### 233 open roles · 36 posted in the last 48 hours
+### 232 open roles · 36 posted in the last 48 hours
 
 Internships and co-ops in **product management, data and AI, design, business and marketing, and software**, posted in the last 3 weeks, read straight from more than 15,000 company career sites (Greenhouse, Lever, Ashby, Workday and the big tech career sites). **Updated every hour.** Most internship lists cover software only; this one covers the rest too.
 
-Last update: November 12, 2026, 04:21 UTC
+Last update: November 12, 2026, 13:19 UTC
 
 > [!TIP]
 > **Star this repo** to keep it handy. It rewrites itself every hour, newest roles on top.
@@ -16,7 +16,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 ## Jump to
 
 - [Product management](#product-management) (5)
-- [Data, analytics and AI](#data-analytics-and-ai) (68)
+- [Data, analytics and AI](#data-analytics-and-ai) (67)
 - [Design](#design) (16)
 - [Business, marketing and finance](#business-marketing-and-finance) (80)
 - [Software engineering](#software-engineering) (64)
@@ -35,13 +35,13 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Bloomenergy](https://findyourrolefirst.click/companies/bloomenergy) | RMCC Data Science Intern | San Jose, California | 4h | [Apply](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362) |
-| [Airbnb](https://findyourrolefirst.click/companies/airbnb) | Advanced Analytics Intern 🛂 | United States | 6h | [Apply](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) |
-| [Riot Games](https://findyourrolefirst.click/companies/riot-games) | Data Engineering Intern - Summer 2027 🛂 | Los Angeles, USA | 25h | [Apply](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) |
-| [Bristol Myers Squibb](https://findyourrolefirst.click/companies/bristol-myers-squibb) | Data & Quantitative Sciences Intern-Summer 2027 🛂 | Princeton   NJ   US \(\+6 more\) | 28h | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Data---Quantitative-Sciences-Intern-Summer-2027_R1608215) |
-| [Bloomenergy](https://findyourrolefirst.click/companies/bloomenergy) | Data Science Intern | San Jose, California | 28h | [Apply](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Data-Science-Intern_JR-25360) |
-| [Vanderlande](https://findyourrolefirst.click/companies/vanderlande) | Supply Chain Data & Analytics Intern | Remote United States of America \(\+1 more\) | 28h | [Apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Remote-United-States-of-America/Supply-Chain-Data---Analytics-Intern_JR38708) |
-| [Addepar](https://findyourrolefirst.click/companies/addepar) | Data Engineering Intern - Summer 2027 🛂 | New York, NY | 36h | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910327002) |
+| [Bloomenergy](https://findyourrolefirst.click/companies/bloomenergy) | RMCC Data Science Intern | San Jose, California | 13h | [Apply](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362) |
+| [Airbnb](https://findyourrolefirst.click/companies/airbnb) | Advanced Analytics Intern 🛂 | United States | 15h | [Apply](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) |
+| [Riot Games](https://findyourrolefirst.click/companies/riot-games) | Data Engineering Intern - Summer 2027 🛂 | Los Angeles, USA | 34h | [Apply](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) |
+| [Bristol Myers Squibb](https://findyourrolefirst.click/companies/bristol-myers-squibb) | Data & Quantitative Sciences Intern-Summer 2027 🛂 | Princeton   NJ   US \(\+6 more\) | 37h | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Data---Quantitative-Sciences-Intern-Summer-2027_R1608215) |
+| [Bloomenergy](https://findyourrolefirst.click/companies/bloomenergy) | Data Science Intern | San Jose, California | 37h | [Apply](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Data-Science-Intern_JR-25360) |
+| [Vanderlande](https://findyourrolefirst.click/companies/vanderlande) | Supply Chain Data & Analytics Intern | Remote United States of America \(\+1 more\) | 37h | [Apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Remote-United-States-of-America/Supply-Chain-Data---Analytics-Intern_JR38708) |
+| [Addepar](https://findyourrolefirst.click/companies/addepar) | Data Engineering Intern - Summer 2027 🛂 | New York, NY | 44h | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910327002) |
 | [The New York Times](https://findyourrolefirst.click/companies/the-new-york-times) | Data Analyst Intern 🛂 | New York, NY | 2d | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005) |
 | [Maxinsights](https://findyourrolefirst.click/companies/maxinsights) | Machine Learning Engineer Intern - Video Foundation Models & Agentic AI | Santa Clara | 2d | [Apply](https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d/application) |
 | [Sharp Electronics](https://findyourrolefirst.click/companies/sharp-electronics) | Summer IT AI Intern | Montvale, New Jersey, United States | 2d | [Apply](https://job-boards.greenhouse.io/sharpelectronics/jobs/4482958009) |
@@ -50,7 +50,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Samsung](https://findyourrolefirst.click/companies/samsung) | ePro AI  Business & Data Analyst Intern | 6625 Excellence Way, Plano, TX, USA | 3d | [Apply](https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996) |
 | [Summit](https://findyourrolefirst.click/companies/summit) | Data Scientist Intern 2027 | Lakeland, FL \(USA\) | 3d | [Apply](https://gaig.wd1.myworkdayjobs.com/summit_external/job/Lakeland-FL-USA/Data-Scientist-Intern-2027_R9852) |
 | [Zoox](https://findyourrolefirst.click/companies/zoox) | Data Science Intern \[Summer 2027\] 🛂 | Foster City, CA | 5d | [Apply](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply) |
-| [Match Group](https://findyourrolefirst.click/companies/match-group) | Data Scientist Intern 🛂 | San Francisco, California | 5d | [Apply](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply) |
+| [Match Group](https://findyourrolefirst.click/companies/match-group) | Data Scientist Intern 🛂 | San Francisco, California | 6d | [Apply](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply) |
 | [Match Group](https://findyourrolefirst.click/companies/match-group) | Machine Learning Engineer Intern 🛂 | Palo Alto, California | 6d | [Apply](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply) |
 | [Raft Company Website](https://findyourrolefirst.click/companies/raft-company-website) | Data Engineering Intern - Summer 2027 | McLean, Virginia | 6d | [Apply](https://job-boards.greenhouse.io/raft/jobs/6239800004) |
 | [Samsung](https://findyourrolefirst.click/companies/samsung) | Business Intelligence & Data Analytics Intern | 6625 Excellence Way, Plano, TX, USA | 6d | [Apply](https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949) |
@@ -71,7 +71,6 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Trace3](https://findyourrolefirst.click/companies/trace3) | Workplace AI Intern | Detroit, MI | 9d | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8274799) |
 | [Booz Allen Hamilton](https://findyourrolefirst.click/companies/booz-allen-hamilton) | University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI 🛂 | Detroit, MI | 10d | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783) |
 | [Snc](https://findyourrolefirst.click/companies/snc) | Data Science Intern \(Summer 2027\) | Sparks, NV | 10d | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257) |
-| [Jmfamily](https://findyourrolefirst.click/companies/jmfamily) | AI Intern | Florida - Deerfield Beach | 10d | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180) |
 | [Stripe](https://findyourrolefirst.click/companies/stripe) | PhD Machine Learning Engineer, Intern 🛂 | San Francisco, New York City, Seattle | 12d | [Apply](https://stripe.com/jobs/search?gh_jid=8328662) |
 | [Stripe](https://findyourrolefirst.click/companies/stripe) | Master's Machine Learning Engineer, Intern 🛂 | San Francisco, New York City, Seattle | 12d | [Apply](https://stripe.com/jobs/search?gh_jid=8333074) |
 | [Snowflake](https://findyourrolefirst.click/companies/snowflake) | Product Marketing- Agentic Analytics Intern \(Spring 2027\) 🛂 | US-CA-Menlo Park | 12d | [Apply](https://jobs.ashbyhq.com/snowflake/97e37c43-2298-42c8-bb4c-1bcfadc80af9/application) |
@@ -108,7 +107,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Notion](https://findyourrolefirst.click/companies/notion) | Product Design Intern \(Summer 2027\) | New York, New York | 33h | [Apply](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9/application) |
+| [Notion](https://findyourrolefirst.click/companies/notion) | Product Design Intern \(Summer 2027\) | New York, New York | 42h | [Apply](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9/application) |
 | [Pinterest](https://findyourrolefirst.click/companies/pinterest) | Product Design Intern \(USA\) 🛂 | San Francisco, CA, US; Remote, US | 2d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8350814) |
 | [Skydio](https://findyourrolefirst.click/companies/skydio) | UX Product Design Intern - Winter 2027 🛂 | San Mateo, California, United States | 5d | [Apply](https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1/application) |
 | [Match Group](https://findyourrolefirst.click/companies/match-group) | Product Design Intern 🛂 | Los Angeles, California | 6d | [Apply](https://jobs.lever.co/matchgroup/dff2b57b-17a7-4ac7-b193-1ca6f143cfc2/apply) |
@@ -129,23 +128,23 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [AlphaSights](https://findyourrolefirst.click/companies/alphasights) | Talent Operations Intern, 2027 | New York | 8h | [Apply](https://www.alphasights.com/careers/open-roles?gh_jid=8379982) |
-| [Arcesium LLC](https://findyourrolefirst.click/companies/arcesium-llc) | Technology Operations Intern | New York | 10h | [Apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007) |
-| [REGENT](https://findyourrolefirst.click/companies/regent) | Cybersecurity & IT Operations Intern \(Summer\) | North Kingstown, Rhode Island, USA | 25h | [Apply](https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524/application) |
-| [Cableone](https://findyourrolefirst.click/companies/cableone) | Business Development Intern | Phoenix AZ | 28h | [Apply](https://cableone.wd1.myworkdayjobs.com/cable_one_external_careers/job/Phoenix-AZ/Business-Development-Intern_R-107691) |
-| [Bloomenergy](https://findyourrolefirst.click/companies/bloomenergy) | Service Operations Intern | San Jose, California | 28h | [Apply](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Service-Operations-Intern_JR-25368) |
-| [Ryansg](https://findyourrolefirst.click/companies/ryansg) | Brokerage Operations Intern | Chicago   Illinois   Madison \(\+2 more\) | 28h | [Apply](https://ryansg.wd5.myworkdayjobs.com/ryan_specialty_career_site/job/Chicago---Illinois---Madison/Brokerage-Operations-Intern_JR26-5512) |
-| [Taskus](https://findyourrolefirst.click/companies/taskus) | Business Development Intern - 2027 | Dallas, Texas, USA | 28h | [Apply](https://taskus.wd1.myworkdayjobs.com/careers/job/Dallas-Texas-USA/Business-Development-Intern---2027_R_2611_14650) |
-| [Georgfischer](https://findyourrolefirst.click/companies/georgfischer) | Growth Marketing Intern | Apple Valley, Minnesota | 28h | [Apply](https://georgfischer.wd103.myworkdayjobs.com/georgfischer_careers/job/Apple-Valley-Minnesota/Growth-Marketing-Intern_JR11718) |
-| [Alliedsolutions](https://findyourrolefirst.click/companies/alliedsolutions) | Product Marketing Intern | Carmel, IN | 28h | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/allied_external/job/Carmel-IN/Product-Marketing-Intern_R-011097) |
-| [Bloomenergy](https://findyourrolefirst.click/companies/bloomenergy) | Commercial Operations Intern | San Jose, California | 28h | [Apply](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Commercial-Operations-Intern_JR-25354) |
-| [Target](https://findyourrolefirst.click/companies/target) | Marketing Intern-Minneapolis, MN \(Starting Summer 2027\) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | 28h | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Marketing-Intern-Minneapolis--MN--Starting-Summer-2027-_R0000449107) |
-| [Jbhunt](https://findyourrolefirst.click/companies/jbhunt) | Operations Intern Summer 2027 | Portland, OR - Suttle Rd. | 28h | [Apply](https://jbhunt.wd501.myworkdayjobs.com/careers/job/Portland-OR---Suttle-Rd/Operations-Intern-Summer-2027_00652369) |
-| [Gordon Food Service](https://findyourrolefirst.click/companies/gordon-food-service) | Sales Intern 🛂 | Shepherdsville, Kentucky | 28h | [Apply](https://gfs.wd5.myworkdayjobs.com/salescareers/job/Shepherdsville-Kentucky/Sales-Intern_R-59868-1) |
-| [Johnson Controls](https://findyourrolefirst.click/companies/johnson-controls) | Best Sales Intern - Fire Systems 🛂 | Rocky Hill-Connecticut-United States of America | 28h | [Apply](https://jci.wd5.myworkdayjobs.com/jci/job/Rocky-Hill-Connecticut-United-States-of-America/Best-Sales-Intern---Fire-Systems_WD30285034) |
-| [Tower Research Capital](https://findyourrolefirst.click/companies/tower-research-capital) | Finance Intern 🛂 | New York | 31h | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8372658) |
-| [IMA Financial Group](https://findyourrolefirst.click/companies/ima-financial-group) | Finance Intern - Summer 2027 | Denver, CO | 32h | [Apply](https://imacorp.com/careers/openings/5274444007?gh_jid=5274444007) |
-| [SharkNinja](https://findyourrolefirst.click/companies/sharkninja) | Summer 2027: Category Finance Intern \(May through August\) | Needham, MA, United States | 33h | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4714635006) |
+| [AlphaSights](https://findyourrolefirst.click/companies/alphasights) | Talent Operations Intern, 2027 | New York | 16h | [Apply](https://www.alphasights.com/careers/open-roles?gh_jid=8379982) |
+| [Arcesium LLC](https://findyourrolefirst.click/companies/arcesium-llc) | Technology Operations Intern | New York | 19h | [Apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007) |
+| [REGENT](https://findyourrolefirst.click/companies/regent) | Cybersecurity & IT Operations Intern \(Summer\) | North Kingstown, Rhode Island, USA | 34h | [Apply](https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524/application) |
+| [Cableone](https://findyourrolefirst.click/companies/cableone) | Business Development Intern | Phoenix AZ | 37h | [Apply](https://cableone.wd1.myworkdayjobs.com/cable_one_external_careers/job/Phoenix-AZ/Business-Development-Intern_R-107691) |
+| [Bloomenergy](https://findyourrolefirst.click/companies/bloomenergy) | Service Operations Intern | San Jose, California | 37h | [Apply](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Service-Operations-Intern_JR-25368) |
+| [Ryansg](https://findyourrolefirst.click/companies/ryansg) | Brokerage Operations Intern | Chicago   Illinois   Madison \(\+2 more\) | 37h | [Apply](https://ryansg.wd5.myworkdayjobs.com/ryan_specialty_career_site/job/Chicago---Illinois---Madison/Brokerage-Operations-Intern_JR26-5512) |
+| [Taskus](https://findyourrolefirst.click/companies/taskus) | Business Development Intern - 2027 | Dallas, Texas, USA | 37h | [Apply](https://taskus.wd1.myworkdayjobs.com/careers/job/Dallas-Texas-USA/Business-Development-Intern---2027_R_2611_14650) |
+| [Georgfischer](https://findyourrolefirst.click/companies/georgfischer) | Growth Marketing Intern | Apple Valley, Minnesota | 37h | [Apply](https://georgfischer.wd103.myworkdayjobs.com/georgfischer_careers/job/Apple-Valley-Minnesota/Growth-Marketing-Intern_JR11718) |
+| [Alliedsolutions](https://findyourrolefirst.click/companies/alliedsolutions) | Product Marketing Intern | Carmel, IN | 37h | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/allied_external/job/Carmel-IN/Product-Marketing-Intern_R-011097) |
+| [Bloomenergy](https://findyourrolefirst.click/companies/bloomenergy) | Commercial Operations Intern | San Jose, California | 37h | [Apply](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Commercial-Operations-Intern_JR-25354) |
+| [Target](https://findyourrolefirst.click/companies/target) | Marketing Intern-Minneapolis, MN \(Starting Summer 2027\) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | 37h | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Marketing-Intern-Minneapolis--MN--Starting-Summer-2027-_R0000449107) |
+| [Jbhunt](https://findyourrolefirst.click/companies/jbhunt) | Operations Intern Summer 2027 | Portland, OR - Suttle Rd. | 37h | [Apply](https://jbhunt.wd501.myworkdayjobs.com/careers/job/Portland-OR---Suttle-Rd/Operations-Intern-Summer-2027_00652369) |
+| [Gordon Food Service](https://findyourrolefirst.click/companies/gordon-food-service) | Sales Intern 🛂 | Shepherdsville, Kentucky | 37h | [Apply](https://gfs.wd5.myworkdayjobs.com/salescareers/job/Shepherdsville-Kentucky/Sales-Intern_R-59868-1) |
+| [Johnson Controls](https://findyourrolefirst.click/companies/johnson-controls) | Best Sales Intern - Fire Systems 🛂 | Rocky Hill-Connecticut-United States of America | 37h | [Apply](https://jci.wd5.myworkdayjobs.com/jci/job/Rocky-Hill-Connecticut-United-States-of-America/Best-Sales-Intern---Fire-Systems_WD30285034) |
+| [Tower Research Capital](https://findyourrolefirst.click/companies/tower-research-capital) | Finance Intern 🛂 | New York | 39h | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8372658) |
+| [IMA Financial Group](https://findyourrolefirst.click/companies/ima-financial-group) | Finance Intern - Summer 2027 | Denver, CO | 41h | [Apply](https://imacorp.com/careers/openings/5274444007?gh_jid=5274444007) |
+| [SharkNinja](https://findyourrolefirst.click/companies/sharkninja) | Summer 2027: Category Finance Intern \(May through August\) | Needham, MA, United States | 42h | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4714635006) |
 | [BMO](https://findyourrolefirst.click/companies/bmo) | Treasury & Payment Solutions Strategy Intern, Summer 2027 \(10 weeks\) | Chicago, IL, USA | 2d | [Apply](https://bmo.wd3.myworkdayjobs.com/external/job/Chicago-IL-USA/Treasury---Payment-Solutions-Strategy-Intern--Summer-2027--10-weeks-_R260031397) |
 | [Oxfordcorp](https://findyourrolefirst.click/companies/oxfordcorp) | Sales Intern- Beverly | Beverly, MA | 2d | [Apply](https://oxfordcorp.wd108.myworkdayjobs.com/oxford_careers/job/Beverly-MA/Sales-Intern--Beverly_R26_00292) |
 | [Quickenloans](https://findyourrolefirst.click/companies/quickenloans) | Client Experience Operations Intern - Summer 2027 | Phoenix, AZ | 2d | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Phoenix-AZ/Client-Experience-Operations-Intern--AZ----Winter-2027_R-085291) |
@@ -214,17 +213,17 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [SK hynix memory solutions America Inc.](https://findyourrolefirst.click/companies/sk-hynix-memory-solutions-america-inc) | Embedded Software Engineer Intern 🛂 | San Jose | 3h | [Apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009) |
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineering Intern \(Summer 2027\) | US-UT-WEST VALLEY CITY-338 \~ 1127 & 1128 w 2400 S \~ BLDG 3 | 4h | [Apply](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1) |
-| [Brex](https://findyourrolefirst.click/companies/brex) | Software Engineer, Intern  \(Summer 2027\) 🛂 | San Francisco, California, United States | 11h | [Apply](https://www.brex.com/careers/8936403002?gh_jid=8936403002) |
-| [Avav](https://findyourrolefirst.click/companies/avav) | Software Engineering Intern | Lawrence, KS | 28h | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Lawrence-KS/Software-Engineering-Intern_9360) |
-| [Unisys](https://findyourrolefirst.click/companies/unisys) | Software Engineer Intern 🛂 | Eagan, MN, United States of America | 28h | [Apply](https://unisys.wd5.myworkdayjobs.com/external/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421) |
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineering Intern \(ISET-IN-2\) | US-VA-STERLING-291 \~ 22640 Davis Dr \~ DAVIS | 28h | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017) |
-| [Skydio](https://findyourrolefirst.click/companies/skydio) | Middleware Software Engineer Intern - Summer 2027 🛂 | San Mateo, California, United States | 30h | [Apply](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application) |
-| [REGENT](https://findyourrolefirst.click/companies/regent) | Embedded Software Engineering Intern \(Summer\) | North Kingstown, Rhode Island, USA | 34h | [Apply](https://jobs.ashbyhq.com/REGENT/9f25824f-486e-4d3a-b444-116b474619d7/application) |
-| [Skydio](https://findyourrolefirst.click/companies/skydio) | Hardware In Loop \(HIL\) Software Engineer Intern - Winter 2027 🛂 | San Mateo, California, United States | 34h | [Apply](https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded/application) |
-| [Palantir Technologies](https://findyourrolefirst.click/companies/palantir-technologies) | Software Engineer, Intern - Connectivity Platform and Product 🛂 | Denver, CO | 35h | [Apply](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e/apply) |
-| [Addepar](https://findyourrolefirst.click/companies/addepar) | Software Engineering Intern - Summer 2027 🛂 | New York, NY | 36h | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927531002) |
+| [SK hynix memory solutions America Inc.](https://findyourrolefirst.click/companies/sk-hynix-memory-solutions-america-inc) | Embedded Software Engineer Intern 🛂 | San Jose | 12h | [Apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009) |
+| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineering Intern \(Summer 2027\) | US-UT-WEST VALLEY CITY-338 \~ 1127 & 1128 w 2400 S \~ BLDG 3 | 13h | [Apply](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1) |
+| [Brex](https://findyourrolefirst.click/companies/brex) | Software Engineer, Intern  \(Summer 2027\) 🛂 | San Francisco, California, United States | 20h | [Apply](https://www.brex.com/careers/8936403002?gh_jid=8936403002) |
+| [Avav](https://findyourrolefirst.click/companies/avav) | Software Engineering Intern | Lawrence, KS | 37h | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Lawrence-KS/Software-Engineering-Intern_9360) |
+| [Unisys](https://findyourrolefirst.click/companies/unisys) | Software Engineer Intern 🛂 | Eagan, MN, United States of America | 37h | [Apply](https://unisys.wd5.myworkdayjobs.com/external/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421) |
+| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineering Intern \(ISET-IN-2\) | US-VA-STERLING-291 \~ 22640 Davis Dr \~ DAVIS | 37h | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017) |
+| [Skydio](https://findyourrolefirst.click/companies/skydio) | Middleware Software Engineer Intern - Summer 2027 🛂 | San Mateo, California, United States | 39h | [Apply](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application) |
+| [REGENT](https://findyourrolefirst.click/companies/regent) | Embedded Software Engineering Intern \(Summer\) | North Kingstown, Rhode Island, USA | 43h | [Apply](https://jobs.ashbyhq.com/REGENT/9f25824f-486e-4d3a-b444-116b474619d7/application) |
+| [Skydio](https://findyourrolefirst.click/companies/skydio) | Hardware In Loop \(HIL\) Software Engineer Intern - Winter 2027 🛂 | San Mateo, California, United States | 43h | [Apply](https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded/application) |
+| [Palantir Technologies](https://findyourrolefirst.click/companies/palantir-technologies) | Software Engineer, Intern - Connectivity Platform and Product 🛂 | Denver, CO | 44h | [Apply](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e/apply) |
+| [Addepar](https://findyourrolefirst.click/companies/addepar) | Software Engineering Intern - Summer 2027 🛂 | New York, NY | 45h | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927531002) |
 | [REGENT](https://findyourrolefirst.click/companies/regent) | Mission Software Engineering Intern \(Summer\) | North Kingstown, Rhode Island, USA | 2d | [Apply](https://jobs.ashbyhq.com/REGENT/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application) |
 | [Trimble](https://findyourrolefirst.click/companies/trimble) | Software Engineering Intern 🛂 | US - TN, Knoxville | 2d | [Apply](https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/US---TN-Knoxville/Software-Engineering-Intern_R58120) |
 | [GE Vernova](https://findyourrolefirst.click/companies/ge-vernova) | GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027 | Bellevue | 2d | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2) |
@@ -267,7 +266,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Intercontinental Exchange \(ICE\)](https://findyourrolefirst.click/companies/intercontinental-exchange-ice) | Summer Internship Program 2027 - Software Engineering Intern | Jacksonville, Florida | 19d | [Apply](https://careers.ice.com/jobs/14075?lang=en-us) |
 | [Intercontinental Exchange \(ICE\)](https://findyourrolefirst.click/companies/intercontinental-exchange-ice) | Summer Internship Program 2027 - Software Developer Intern | Jacksonville, Florida | 19d | [Apply](https://careers.ice.com/jobs/14076?lang=en-us) |
 | [Intercontinental Exchange \(ICE\)](https://findyourrolefirst.click/companies/intercontinental-exchange-ice) | Summer Internship Program 2027 - Software Engineering Intern, Java | Jacksonville, Florida | 19d | [Apply](https://careers.ice.com/jobs/14078?lang=en-us) |
-| [MongoDB](https://findyourrolefirst.click/companies/mongodb) | 2027 - Software Engineering Intern, AMER 🛂 | Austin; New York City; San Francisco | 19d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
+| [MongoDB](https://findyourrolefirst.click/companies/mongodb) | 2027 - Software Engineering Intern, AMER 🛂 | Austin; New York City; San Francisco | 20d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
 | [Kla](https://findyourrolefirst.click/companies/kla) | Software Engineer Intern \(C\+\+, Linux\) – Summer 2027 🛂 | Milpitas, CA | 20d | [Apply](https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878) |
 | [Copart](https://findyourrolefirst.click/companies/copart) | Software Engineering Intern 🛂 | Dallas, TX - Headquarters | 20d | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111861) |
 | [CACI](https://findyourrolefirst.click/companies/caci) | Cleared Software Engineer Intern - Summer 2027 | Denver CO US \(\+1 more\) | 20d | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999) |
