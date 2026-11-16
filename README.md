@@ -1,10 +1,10 @@
 # Summer 2027 internships (US): product, data, design, business and software
 
-### 209 open roles · 7 posted in the last 48 hours
+### 208 open roles · 7 posted in the last 48 hours
 
 Internships and co-ops in **product management, data and AI, design, business and marketing, and software**, posted in the last 3 weeks, read straight from more than 15,000 company career sites (Greenhouse, Lever, Ashby, Workday and the big tech career sites). **Updated every hour.** Most internship lists cover software only; this one covers the rest too.
 
-Last update: November 16, 2026, 03:14 UTC
+Last update: November 16, 2026, 12:05 UTC
 
 > [!TIP]
 > **Star this repo** to keep it handy. It rewrites itself every hour, newest roles on top.
@@ -19,7 +19,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 - [Data, analytics and AI](#data-analytics-and-ai) (65)
 - [Design](#design) (14)
 - [Business, marketing and finance](#business-marketing-and-finance) (80)
-- [Software engineering](#software-engineering) (46)
+- [Software engineering](#software-engineering) (45)
 
 ## Product management
 
@@ -34,7 +34,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Fanatics Collectibles](https://findyourrolefirst.click/companies/fanatics-collectibles) | Summer 2027 Internship - Manufacturing Planning & Analytics Intern | Sunnyvale, TX, United States | 14h | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507789009) |
+| [Fanatics Collectibles](https://findyourrolefirst.click/companies/fanatics-collectibles) | Summer 2027 Internship - Manufacturing Planning & Analytics Intern | Sunnyvale, TX, United States | 23h | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507789009) |
 | Nexus One | Data Engineering Intern | Atlanta HQ | 2d | [Apply](https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application) |
 | [Campingworld](https://findyourrolefirst.click/companies/campingworld) | Data Engineering Intern | Chicago, IL | 3d | [Apply](https://campingworld.wd5.myworkdayjobs.com/jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297) |
 | [Campingworld](https://findyourrolefirst.click/companies/campingworld) | Data Analyst Intern | Chicago, IL | 3d | [Apply](https://campingworld.wd5.myworkdayjobs.com/jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300) |
@@ -61,8 +61,8 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Samsung](https://findyourrolefirst.click/companies/samsung) | ePro AI  Business & Data Analyst Intern | 6625 Excellence Way, Plano, TX, USA | 7d | [Apply](https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996) |
 | [Summit](https://findyourrolefirst.click/companies/summit) | Data Scientist Intern 2027 | Lakeland, FL \(USA\) | 7d | [Apply](https://gaig.wd1.myworkdayjobs.com/summit_external/job/Lakeland-FL-USA/Data-Scientist-Intern-2027_R9852) |
 | [Zoox](https://findyourrolefirst.click/companies/zoox) | Data Science Intern \[Summer 2027\] 🛂 | Foster City, CA | 9d | [Apply](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply) |
-| [Match Group](https://findyourrolefirst.click/companies/match-group) | Data Scientist Intern 🛂 | San Francisco, California | 9d | [Apply](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply) |
-| [Match Group](https://findyourrolefirst.click/companies/match-group) | Machine Learning Engineer Intern 🛂 | Palo Alto, California | 9d | [Apply](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply) |
+| [Match Group](https://findyourrolefirst.click/companies/match-group) | Data Scientist Intern 🛂 | San Francisco, California | 10d | [Apply](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply) |
+| [Match Group](https://findyourrolefirst.click/companies/match-group) | Machine Learning Engineer Intern 🛂 | Palo Alto, California | 10d | [Apply](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply) |
 | [Raft Company Website](https://findyourrolefirst.click/companies/raft-company-website) | Data Engineering Intern - Summer 2027 | McLean, Virginia | 10d | [Apply](https://job-boards.greenhouse.io/raft/jobs/6239800004) |
 | [Samsung](https://findyourrolefirst.click/companies/samsung) | Business Intelligence & Data Analytics Intern | 6625 Excellence Way, Plano, TX, USA | 10d | [Apply](https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949) |
 | [AstraZeneca](https://findyourrolefirst.click/companies/astrazeneca) | Manufacturing Digital and AI Intern | US - Gaithersburg - MD | 11d | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647) |
@@ -110,7 +110,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Notion](https://findyourrolefirst.click/companies/notion) | Product Design Intern \(Summer 2027\) | New York, New York | 5d | [Apply](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9/application) |
 | [Pinterest](https://findyourrolefirst.click/companies/pinterest) | Product Design Intern \(USA\) 🛂 | San Francisco, CA, US; Remote, US | 6d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8350814) |
 | [Skydio](https://findyourrolefirst.click/companies/skydio) | UX Product Design Intern - Winter 2027 🛂 | San Mateo, California, United States | 9d | [Apply](https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1/application) |
-| [Match Group](https://findyourrolefirst.click/companies/match-group) | Product Design Intern 🛂 | Los Angeles, California | 9d | [Apply](https://jobs.lever.co/matchgroup/dff2b57b-17a7-4ac7-b193-1ca6f143cfc2/apply) |
+| [Match Group](https://findyourrolefirst.click/companies/match-group) | Product Design Intern 🛂 | Los Angeles, California | 10d | [Apply](https://jobs.lever.co/matchgroup/dff2b57b-17a7-4ac7-b193-1ca6f143cfc2/apply) |
 | [Stripe](https://findyourrolefirst.click/companies/stripe) | Product Design Intern 🛂 | San Francisco, Seattle, New York City | 10d | [Apply](https://stripe.com/jobs/search?gh_jid=8332681) |
 | [S&B USA](https://findyourrolefirst.click/companies/s-b-usa) | Marketing/Graphic Design Intern | Pittsburgh, Pennsylvania, United States | 10d | [Apply](https://job-boards.greenhouse.io/sbusa/jobs/5474111008) |
 | [Pattern](https://findyourrolefirst.click/companies/pattern) | UX Design Intern - Summer 2027 | Lehi, UT, US | 11d | [Apply](https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d/apply) |
@@ -123,12 +123,12 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Clera](https://findyourrolefirst.click/companies/clera) | Strategic Operations Intern | San Francisco | 9h | [Apply](https://jobs.ashbyhq.com/Clera/ea11d22a-20a8-435d-8de2-5fea5d4dc60c/application) |
-| [Fanatics Collectibles](https://findyourrolefirst.click/companies/fanatics-collectibles) | Summer 2027 MBA Internship - Strategy Intern | Los Angeles, CA, United States | 14h | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507770009) |
-| [Fanatics Collectibles](https://findyourrolefirst.click/companies/fanatics-collectibles) | Summer 2027 Internship - Strategic Finance Intern | New York, NY, United States | 14h | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507812009) |
-| [Fanatics Collectibles](https://findyourrolefirst.click/companies/fanatics-collectibles) | Summer 2027 Internship - Athlete Partnerships Contract Administration & PO Operations Intern | New York, NY, United States | 14h | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507827009) |
-| [Clera](https://findyourrolefirst.click/companies/clera) | Operations Intern | Salt Lake City | 33h | [Apply](https://jobs.ashbyhq.com/Clera/f5dc2946-1e1f-4e60-9219-808cba43bc4a/application) |
-| [Clera](https://findyourrolefirst.click/companies/clera) | Growth & Marketing Intern / New Grad | San Francisco | 34h | [Apply](https://jobs.ashbyhq.com/Clera/1798e957-ca09-4252-b639-a0a1073afabc/application) |
+| [Clera](https://findyourrolefirst.click/companies/clera) | Strategic Operations Intern | San Francisco | 18h | [Apply](https://jobs.ashbyhq.com/Clera/ea11d22a-20a8-435d-8de2-5fea5d4dc60c/application) |
+| [Fanatics Collectibles](https://findyourrolefirst.click/companies/fanatics-collectibles) | Summer 2027 MBA Internship - Strategy Intern | Los Angeles, CA, United States | 22h | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507770009) |
+| [Fanatics Collectibles](https://findyourrolefirst.click/companies/fanatics-collectibles) | Summer 2027 Internship - Strategic Finance Intern | New York, NY, United States | 22h | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507812009) |
+| [Fanatics Collectibles](https://findyourrolefirst.click/companies/fanatics-collectibles) | Summer 2027 Internship - Athlete Partnerships Contract Administration & PO Operations Intern | New York, NY, United States | 23h | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507827009) |
+| [Clera](https://findyourrolefirst.click/companies/clera) | Operations Intern | Salt Lake City | 42h | [Apply](https://jobs.ashbyhq.com/Clera/f5dc2946-1e1f-4e60-9219-808cba43bc4a/application) |
+| [Clera](https://findyourrolefirst.click/companies/clera) | Growth & Marketing Intern / New Grad | San Francisco | 43h | [Apply](https://jobs.ashbyhq.com/Clera/1798e957-ca09-4252-b639-a0a1073afabc/application) |
 | David Zwirner | Sales Intern \(Tribeca\) | New York, NY | 2d | [Apply](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295146007) |
 | David Zwirner | Sales Intern \(Chelsea\) | New York, NY | 2d | [Apply](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295149007) |
 | David Zwirner | Marketing Intern | New York, NY | 2d | [Apply](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295155007) |
@@ -158,7 +158,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Kendallgroup](https://findyourrolefirst.click/companies/kendallgroup) | Marketing Intern | Conshohocken, PA | 4d | [Apply](https://kendallgroup.wd503.myworkdayjobs.com/kendall_careers/job/Conshohocken-PA/Marketing-Intern_R-101248) |
 | [Ilitch](https://findyourrolefirst.click/companies/ilitch) | Brand Marketing Intern | Detroit, MI | 4d | [Apply](https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Brand-Marketing-Intern_R9722-1) |
 | [AlphaSights](https://findyourrolefirst.click/companies/alphasights) | Talent Operations Intern, 2027 | New York | 4d | [Apply](https://www.alphasights.com/careers/open-roles?gh_jid=8379982) |
-| [REGENT](https://findyourrolefirst.click/companies/regent) | Cybersecurity & IT Operations Intern \(Summer\) | North Kingstown, Rhode Island, USA | 4d | [Apply](https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524/application) |
+| [REGENT](https://findyourrolefirst.click/companies/regent) | Cybersecurity & IT Operations Intern \(Summer\) | North Kingstown, Rhode Island, USA | 5d | [Apply](https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524/application) |
 | [Cableone](https://findyourrolefirst.click/companies/cableone) | Business Development Intern | Phoenix AZ | 5d | [Apply](https://cableone.wd1.myworkdayjobs.com/cable_one_external_careers/job/Phoenix-AZ/Business-Development-Intern_R-107691) |
 | [Bloomenergy](https://findyourrolefirst.click/companies/bloomenergy) | Service Operations Intern | San Jose, California | 5d | [Apply](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Service-Operations-Intern_JR-25368) |
 | [Ryansg](https://findyourrolefirst.click/companies/ryansg) | Brokerage Operations Intern | Chicago   Illinois   Madison \(\+2 more\) | 5d | [Apply](https://ryansg.wd5.myworkdayjobs.com/ryan_specialty_career_site/job/Chicago---Illinois---Madison/Brokerage-Operations-Intern_JR26-5512) |
@@ -197,8 +197,8 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Pinterest](https://findyourrolefirst.click/companies/pinterest) | Strategy & Operations Intern 2027 \(USA\) 🛂 | San Francisco, CA, US; Remote, CA, US | 9d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8334878) |
 | [First Global Management Services, Inc.](https://findyourrolefirst.click/companies/first-global-management-services-inc) | Strategy Intern | FIRST - New York | 9d | [Apply](https://firstagency.com/position/?job=5287413007&gh_jid=5287413007) |
 | [AMAROK](https://findyourrolefirst.click/companies/amarok) | Sales Intern | South Carolina, Columbia | 9d | [Apply](https://job-boards.greenhouse.io/amarok/jobs/6242503004) |
-| [Match Group](https://findyourrolefirst.click/companies/match-group) | Social Marketing Intern 🛂 | Los Angeles, California | 9d | [Apply](https://jobs.lever.co/matchgroup/d4f57475-3ea3-4560-924b-5a5507d4f002/apply) |
-| [Match Group](https://findyourrolefirst.click/companies/match-group) | Product Marketing Intern 🛂 | Los Angeles, California | 9d | [Apply](https://jobs.lever.co/matchgroup/c44982cb-4339-48ba-a097-e42fd793e724/apply) |
+| [Match Group](https://findyourrolefirst.click/companies/match-group) | Social Marketing Intern 🛂 | Los Angeles, California | 10d | [Apply](https://jobs.lever.co/matchgroup/d4f57475-3ea3-4560-924b-5a5507d4f002/apply) |
+| [Match Group](https://findyourrolefirst.click/companies/match-group) | Product Marketing Intern 🛂 | Los Angeles, California | 10d | [Apply](https://jobs.lever.co/matchgroup/c44982cb-4339-48ba-a097-e42fd793e724/apply) |
 | [Umbexternal](https://findyourrolefirst.click/companies/umbexternal) | Events & Sponsorships Marketing Intern | Kansas City MO | 10d | [Apply](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Kansas-City-MO/Events---Sponsorships-Marketing-Intern_R-9550) |
 | [Carrier](https://findyourrolefirst.click/companies/carrier) | Inside Sales Intern - Summer | CATX3: 1218 Arion Parkway, San Antonio, TX, 78216 USA | 10d | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CATX3-1218-Arion-Parkway-San-Antonio-TX-78216-USA/Inside-Sales-Intern---Summer_30221537) |
 | [Hfecorp](https://findyourrolefirst.click/companies/hfecorp) | Kennywood - Financial Operations Intern | Kennywood, 4800 Kennywood Blvd., West Mifflin,  PA 15122, Un | 10d | [Apply](https://hfecorp.wd503.myworkdayjobs.com/palace_jobs/job/Kennywood-4800-Kennywood-Blvd-West-Mifflin--PA-15122-United-States-of-America/Kennywood---Financial-Operations-Intern_JR107960) |
@@ -210,7 +210,6 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 |---|---|---|---|---|
 | [Reliable Robotics Corporation](https://findyourrolefirst.click/companies/reliable-robotics-corporation) | Flight Software Engineer Intern \(Summer 2027\) | Mountain View, CA | 2d | [Apply](https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed/application) |
 | [Campingworld](https://findyourrolefirst.click/companies/campingworld) | Software Engineering Intern | Lincolnshire, IL | 3d | [Apply](https://campingworld.wd5.myworkdayjobs.com/jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080) |
-| [Manulife](https://findyourrolefirst.click/companies/manulife) | Spring Co-op 2027 - Software Engineering Intern | Boston, Massachusetts | 3d | [Apply](https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405) |
 | [Valeo](https://findyourrolefirst.click/companies/valeo) | Software Engineer Intern \(Year-Round\) | Troy, MI | 3d | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794) |
 | [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineering Intern \(Summer 2027\) | US-FL-MELBOURNE-312 \~ 795 W Nasa Blvd \~ BLDG 312 | 3d | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01885543) |
 | [Muon Space](https://findyourrolefirst.click/companies/muon-space) | Software Engineering Intern-Information Systems \(Summer 2027\) | San Jose, CA | 3d | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5293973007) |
